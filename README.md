@@ -139,7 +139,7 @@ Finally, based on observations from the exploratory approaches mentioned above, 
 
 **Sequence of Steps:**
 I have largely mentioned the sequence in **Labelling/Aggregating sub-topics** above. After using zero-shot classificaton on all 400 papers and labels from EDA, I obtained the following:
-![Alt text](wang-ml-sample/images/image.png)
+![Alt text](wang-ml-sample/images/image-1.png)
 
 **Limitations:**
 1. During EDA, I observed that most research abstracts are heavy on language pertaining to mathematical approaches and/or modelling, which doesn't neatly translate to the application. A mapping like that would have helped in coming up with better labels and assigning them to papers.  
