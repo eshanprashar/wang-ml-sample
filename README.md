@@ -8,7 +8,7 @@ At the top level, this repo contains two folders:
 
 For every task in the assingment, I have mentioned (at least) the following five things: 
 1. High-level approach to the problem 
-2. Key Tradeoffs & Technical solutions considered in implementation
+2. Technical Decisions & Key Tradeoffs
 3. Sequence of steps to implement solution
 4. Scripts written that can be found in the scripts folder 
 5. Data collected that can be found in the data folder
@@ -26,10 +26,10 @@ To compile 400 papers from the web, I broke down the process into the following 
 2. Using the metadata links, fetch all the metadata provided
 3. Sample 400 research papers based on different criteria (pick _n_ from certain years or select based on _subject_ availability)
 
-**Key Tradeoffs & Technical Solutions Considered:** 
-1. Sampling design 
-2. Ability to iterate / experiment with more data
-3. Server limits
+**Technical Decisions & Key Tradeoffs:** 
+1. How to Sample 400 papers: (do it initially or later given)
+    * Sampling impacts ability to iterate / experiment with more data or start 
+    * Data size can be impacted by server limits
 
 Based on these factors, I tried the following three technical implementations:
 1. **Scraping everything using _requests_:** This failed because _requests_ does not handle the issue of _timeouts_ well. 
@@ -59,9 +59,12 @@ Categorize each author’s nationality or ethnicity.
 **Approach to the problem:**
 For this problem, the approach was simple: look at the column _dc.contributing.author_, split the names and find a way to leverage the _last-name_. 
 
-**Key Tradeoffs & Technical Solutions Considered:** 
-1. Isolating intermediate dataframe
-2. Modelling / Predicting ethnicity
+**Technical Decisions & Key Tradeoffs:** 
+1. Dataframe structure:
+    * Creating and saving separate dataframe for authors (more space vs. isolation)
+
+2. Modelling / Predicting ethnicity:
+    * Using cosine similarity to find similar last_names from Census vs. other ML models (simplicity and incomplete vs. time-consuming but more concrete findings)
 
 Based on these two factors, I tried the following technical implementations:
 1. **Isolating intermediate dataframe:** I created a separate dataframe for authors, where one row is an author. The key design principles here are isolation and efficiency - once we have relevant columns just for authors, we can conduct author specific analysis more easily
@@ -109,20 +112,34 @@ I looked at the following 3 columns to get some idea of relevant AI topics: _dc.
 
 and finally used a pre-trained bart model with zero-shot classification to assign topic labels to each research paper.
 
-**Key Tradeoffs & Technical Solutions Considered:** 
-1. Isolating intermediate dataframe 
-2. Iterative approach to labelling / aggregating sub-topics
+**Technical Decisions & Key Tradeoffs:** 
+1. Dataframe structure:
+    * Creating and saving separate dataframe for subjects (more space vs. isolation)
+
+2. Labelling / aggregating sub-topics 
+    * Using an interative approach (EDA + manual analysis -> Labels -> Assignment using pre-trained models) vs. using more complex ML approaches using _description_
 
 Based on these two factors, I tried the following technical implementations:
 1. **Isolating intermediate dataframe:** Similar to the approach taken for authors, I created a separate dataframe for subjects, where one row is a subject. Again, the key design principles here are isolation and efficiency. 
 
-2. **Labelling/Aggregating sub-topics:** My sampling design used to select 400 research papers gives priority to papers that have non-null values for _subject_, however, I designed all functions such that this dataframe can be replaced by any other selection of 400 papers and the code would still work. For this specific sample though, 
+2. **Labelling/Aggregating sub-topics:** In my sampling design, I selected 400 research papers by giving priority to papers that have non-null values for _subject_, however, I designed all functions such that this dataframe can be replaced by any other selection of 400 papers and the code would still work. For this specific sample though, I first filtered for _subjects_ (~200 rows) that contained _AI_ and examined a plot of topics for those rows like so:
+![Alt text](wang-ml-sample/images/image.png) 
+
+Then with the entire dataset of 400 rows (research papers), I used the _title_ and _description_ columns to check tf-idf scores (normalized frequency counts) of tokens (words), conducted topic modelling using LDA, and examined uni/bi/tri grams, which gave some idea around the topics. However, with these approaches, apart from _object detection or computer vision based techniques_, no other traditional sub-bucket of AI very clearly jumped out. 
+
+Finally, based on observations from the exploratory approaches mentioned above, I defined the following labels: _Object Recognition/Detection, Image Classification, Face Detection, Language Models, Speech/Audio Recognition, Robotics, High Performance Computing, Privacy / Ethics_ and used a pre-trained bart-model to classify research papers using zero-shot classification (no training data to test correctness). 
 
 **Folder Navigation:** 
 1. scripts:
-    * 
+    * [predicting sub-categories of AI subjects](wang-ml-sample/scripts/metadata_analysis_subjects.ipynb)
 
 2. data:
-    * 
-    * 
-    * 
+    * [initial dataframe for subjects](wang-ml-sample/data/subjects/subjects_simple.csv)
+    * [final classfication of subjects](wang-ml-sample/data/subjects/subjects_classification_using_bert.csv)
+
+**Sequence of Steps:**
+I have largely mentioned the sequence in **Labelling/Aggregating sub-topics** above. After using zero-shot classificaton on all 400 papers and labels from EDA, I obtained the following:
+![Alt text](wang-ml-sample/images/image.png)
+
+**Limitations:**
+1. During EDA, I observed that most research abstracts are heavy on language pertaining to mathematical approaches and/or modelling, which doesn't neatly translate to the application. A mapping like that would have helped in coming up with better labels and assigning them to papers.  
