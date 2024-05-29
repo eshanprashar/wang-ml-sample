@@ -98,10 +98,10 @@ All of these values add up to 100%.
 - Then, I found _most-similar_ matches to author names in Census names using _cosine similarity_. 
 - Finally, I assigned the ethnicity of the _most similar_ last name to the author. All these steps are [here](wang-ml-sample/scripts/metadata_analysis_authors.ipynb)
 
-[Results](wang-ml-sample/images/ethnic_predic.png)
-
 **Limitations:**
 1. The US Census database used for this analysis only has 6 meaningful ethnic divisions as shown above. _Ethnicolr_ has a lot more divisions, which would provide more insight, especially because many White names have European origins. 
+
+![Alt text](image.png)
 
 ## Task 3:
 Categorize research topics: sub-categories within AI (e.g. facial recognition, speech recognition)
@@ -125,11 +125,14 @@ Based on these two factors, I tried the following technical implementations:
 1. **Isolating intermediate dataframe:** Similar to the approach taken for authors, I created a separate dataframe for subjects, where one row is a subject. Again, the key design principles here are isolation and efficiency. 
 
 2. **Labelling/Aggregating sub-topics:** In my sampling design, I selected 400 research papers by giving priority to papers that have non-null values for _subject_, however, I designed all functions such that this dataframe can be replaced by any other selection of 400 papers and the code would still work. For this specific sample though, I first filtered for _subjects_ (~200 rows) that contained _AI_ and examined a plot of topics for those rows like so:
-![Alt text](wang-ml-sample/images/image.png) 
+
+![Alt text](image-1.png)
 
 Then with the entire dataset of 400 rows (research papers), I used the _title_ and _description_ columns to check tf-idf scores (normalized frequency counts) of tokens (words), conducted topic modelling using LDA, and examined uni/bi/tri grams, which gave some idea around the topics. However, with these approaches, apart from _object detection or computer vision based techniques_, no other traditional sub-bucket of AI very clearly jumped out. 
 
 Finally, based on observations from the exploratory approaches mentioned above, I defined the following labels: _Object Recognition/Detection, Image Classification, Face Detection, Language Models, Speech/Audio Recognition, Robotics, High Performance Computing, Privacy / Ethics_ and used a pre-trained bart-model to classify research papers using zero-shot classification (no training data to test correctness). 
+
+![Alt text](image-2.png)
 
 **Folder Navigation:** 
 1. scripts:
