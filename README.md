@@ -5,8 +5,12 @@ At the top level, this repo contains two folders:
 
 1. scripts: this sub-folder contains all the python code (in jupyter notebooks) written to accomplish tasks 1-6. [Check here](scripts) 
 2. data: this sub-folder contains csv files that were either sourced from the web, or were created as intermediate dataframes for analysis. [Check here](data)
+3. other files:
+- datatask pdf
+- images used in readme
+- poetry environment setup files
 
-For every task in the assingment, I have mentioned (at least) the following five things: 
+For every task in the assingment, I have covered the following five things: 
 1. High-level approach to the problem 
 2. Technical Decisions & Key Tradeoffs
 3. Sequence of steps to implement solution
@@ -132,8 +136,6 @@ Then with the entire dataset of 400 rows (research papers), I used the _title_ a
 
 Finally, based on observations from the exploratory approaches mentioned above, I defined the following labels: _Object Recognition/Detection, Image Classification, Face Detection, Language Models, Speech/Audio Recognition, Robotics, High Performance Computing, Privacy / Ethics_ and used a pre-trained bart-model to classify research papers using zero-shot classification (no training data to test correctness). 
 
-![Alt text](image-2.png)
-
 **Folder Navigation:** 
 1. scripts:
     * [predicting sub-categories of AI subjects](wang-ml-sample/scripts/metadata_analysis_subjects.ipynb)
@@ -144,7 +146,27 @@ Finally, based on observations from the exploratory approaches mentioned above, 
 
 **Sequence of Steps:**
 I have largely mentioned the sequence in **Labelling/Aggregating sub-topics** above. After using zero-shot classificaton on all 400 papers and labels from EDA, I obtained the following:
-![Alt text](wang-ml-sample/images/image-1.png)
+
+![Alt text](image-2.png)
 
 **Limitations:**
 1. During EDA, I observed that most research abstracts are heavy on language pertaining to mathematical approaches and/or modelling, which doesn't neatly translate to the application. A mapping like that would have helped in coming up with better labels and assigning them to papers.  
+
+## Task 4:
+Identify patterns of nationality/ethnicity and research topics within AI across time
+
+**Notes:**
+For this task, I used the dataframes created in steps 2 and 3, and created the following sample visuals:
+![Alt text](image-3.png)
+![Alt text](image-5.png)
+![Alt text](image-4.png)
+
+The script is straightforward and present [here](wang-ml-sample/scripts/metadata_analysis_aut_sub.ipynb) 
+
+## Task 5 and 6:
+While I did not implement these tasks, the high-approach I would have taken for these would have been:
+1. Use Google APIs to search for queries like: _authorname + faculty_ or _authorname + google scholar_. The former is likely to give information on their appointments outside faculty while the later is likely to help with Task 6 (trajectory before and after industry appointments) 
+2. With or without step 1, I would have most likely, scraped data from engineering department websites of top US universities 
+3. University websites typically have notes on faculty work experience (career trajectories outside academia). I would also try to download their CVs (from the University webpage) and scrape data from those. I would deprioritize LinkedIn (because of API limits) / news (lack of standardization). 
+
+Time I would potentially need for Tasks 5 and 6: 2 days to design a scalable approach that works
