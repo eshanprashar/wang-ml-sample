@@ -46,12 +46,12 @@ Based on these factors, I tried the following three technical implementations:
 
 **Folder Navigation:** 
 1. scripts:
-    * [getting research paper links](wang-ml-sample/scripts/compiling_paper_links.ipynb)
-    * [fetching metadata](wang-ml-sample/scripts/fetch_metadata.ipynb)
-    * [sampling 400 papers](wang-ml-sample/scripts/metadata_sampling.ipynb)
+    * [getting research paper links](scripts/compiling_paper_links.ipynb)
+    * [fetching metadata](scripts/fetch_metadata.ipynb)
+    * [sampling 400 papers](scripts/metadata_sampling.ipynb)
 2. data:
-    * [paper_links](wang-ml-sample/data/paper_links) 
-    * [metadata](wang-ml-sample/data/metadata) 
+    * [paper_links](data/paper_links) 
+    * [metadata](data/metadata) 
 
 **Sequence of Steps**
 - Downloaded research paper links and metadata links, page by page. Script [here](wang-ml-sample/scripts/compiling_paper_links.ipynb); data [here](wang-ml-sample/data/paper_links) 
