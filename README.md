@@ -98,6 +98,8 @@ All of these values add up to 100%.
 - Then, I found _most-similar_ matches to author names in Census names using _cosine similarity_. 
 - Finally, I assigned the ethnicity of the _most similar_ last name to the author. All these steps are [here](wang-ml-sample/scripts/metadata_analysis_authors.ipynb)
 
+[Results](wang-ml-sample/images/ethnic_predic.png)
+
 **Limitations:**
 1. The US Census database used for this analysis only has 6 meaningful ethnic divisions as shown above. _Ethnicolr_ has a lot more divisions, which would provide more insight, especially because many White names have European origins. 
 
