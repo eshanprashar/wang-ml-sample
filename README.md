@@ -28,21 +28,21 @@ Limitations have been mentioned wherever necessary.
 
 **Approach to the problem**:
 To compile 400 papers from the web, I broke down the process into the following 3 steps:
-1. Starting 2000, get research paper URLs and metadata URLs for every paper. Save this data for every page in a csv file
+1. Starting the year 2000, get research paper URLs and metadata URLs for every paper. Save this data for every page in a csv file
 2. Using the metadata links, fetch all the metadata provided
 3. Sample 400 research papers based on different criteria (pick _n_ from certain years or select based on _subject_ availability)
 
 **Technical Decisions & Key Tradeoffs:** 
 1. How to Sample 400 papers: (do it initially or later given)
-    * Sampling impacts ability to iterate / experiment with more data or start 
+    * Sampling impacts ability to iterate / experiment with more data 
     * Data size can be impacted by server limits
 
 Based on these factors, I tried the following three technical implementations:
 1. **Scraping everything using _requests_:** This failed because _requests_ does not handle the issue of _timeouts_ well. 
 
-2. **Limiting scraping data; collection using AWS lambda:** To deal with failed server requests, I considered using _pagination-info_, i.e. the fact that results for 2000 onwards exist from _2708_ to _3804_ along with lambda to send requests in parallel. In this design, I would have chosen equally distributed intervals of say, 20 or 40 between _2708_ and _3804_ and used those to send requests through AWS. I didn't end up doing this because metadata across years didn't seem consistent, so I did not want to lose important data, and setting up AWS was time-consuming.
+2. **Limiting scraping data; collection using AWS lambda:** To deal with failed server requests, I considered using _pagination-info_, i.e. the fact that results for year 2000 onwards exist from _2708_ to _3804_. I tried using this, along with AWS lambda to send requests in parallel. In this design, I would have chosen equally distributed intervals of say, 20 or 40 between _2708_ and _3804_ and used those to send requests through AWS. I didn't end up doing this because metadata across years didn't seem consistent, so I did not want to lose important data, and setting up AWS was time-consuming.
 
-3. **Isolating link collection and metadata scraping using Selenium:** Selenium resolved the problem of _server-timeouts_. Once I tested that out, I broke down functions such that we would scrape all links first, save them page by page, and then go through each to collect metadata. By isolating processes this way, I was able to debug better, and explore data much better. The only drawback of this solution was collecting so much data took time. 
+3. **Isolating link collection and metadata scraping using Selenium:** Selenium resolved the problem of _server-timeouts_. Once I tested that out, I broke down functions such that we would scrape all links first, save them page by page, and then go through each to collect metadata. By isolating processes this way, I was able to debug better, and explore data much better. The only drawback of this solution was collecting so much data took time. However, this one was a one-time problem.
 
 **Folder Navigation:** 
 1. scripts:
