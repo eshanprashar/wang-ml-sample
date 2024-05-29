@@ -3,9 +3,11 @@
 ## Structure of repository:
 At the top level, this repo contains two folders:
 
-1. scripts: this sub-folder contains all the python code (in jupyter notebooks) written to accomplish tasks 1-6. [Check here](scripts) 
-2. data: this sub-folder contains csv files that were either sourced from the web, or were created as intermediate dataframes for analysis. [Check here](data)
-3. other files:
+1. **scripts:** this sub-folder contains all the python code (in jupyter notebooks) written to accomplish tasks 1-4. [Check here](scripts) 
+
+2. **data:** this sub-folder contains csv files that were either sourced from the web, or were created as intermediate dataframes for analysis. [Check here](data)
+
+3. **other files:**
 - datatask pdf
 - images used in readme
 - poetry environment setup files
@@ -20,7 +22,7 @@ For every task in the assingment, I have covered the following five things:
 Limitations have been mentioned wherever necessary.
 
 ## Task 1:
-Compile a sample of 400 papers from MIT’s Computer Science and Artificial Intelligence Lab.
+**Compile a sample of 400 papers from MIT’s Computer Science and Artificial Intelligence Lab.**
 * URL: https://dspace.mit.edu/handle/1721.1/5458/browse?type=dateissued
 * Timeframe: focus on year 2000 to today.
 
@@ -57,8 +59,10 @@ Based on these factors, I tried the following three technical implementations:
 - Downloaded metadata for research papers, page by page. Script [here](wang-ml-sample/scripts/fetch_metadata.ipynb); data [here](wang-ml-sample/data/metadata)
 _ Sampled 400 papers using 2 methods: picking 25 random papers from 16 years and picking the ones with non-null values of _subject_ first. Script [here](wang-ml-sample/scripts/metadata_sampling.ipynb)
 
+![Alt text](image-6.png)
+
 ## Task 2:
-Categorize each author’s nationality or ethnicity.
+**Categorize each author’s nationality or ethnicity.**
 
 **Approach to the problem:**
 For this problem, the approach was simple: look at the column _dc.contributing.author_, split the names and find a way to leverage the _last-name_. 
@@ -108,7 +112,7 @@ All of these values add up to 100%.
 ![Alt text](image.png)
 
 ## Task 3:
-Categorize research topics: sub-categories within AI (e.g. facial recognition, speech recognition)
+**Categorize research topics: sub-categories within AI (e.g. facial recognition, speech recognition)**
 
 **Approach to the problem:**
 I looked at the following 3 columns to get some idea of relevant AI topics: _dc.subject_, _dc.title_ and _dc.dc.description.abstract_. Using these columns, I examined: 
@@ -153,7 +157,7 @@ I have largely mentioned the sequence in **Labelling/Aggregating sub-topics** ab
 1. During EDA, I observed that most research abstracts are heavy on language pertaining to mathematical approaches and/or modelling, which doesn't neatly translate to the application. A mapping like that would have helped in coming up with better labels and assigning them to papers.  
 
 ## Task 4:
-Identify patterns of nationality/ethnicity and research topics within AI across time
+**Identify patterns of nationality/ethnicity and research topics within AI across time**
 
 **Notes:**
 For this task, I used the dataframes created in steps 2 and 3, and created the following sample visuals:
