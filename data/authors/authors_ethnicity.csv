@@ -1,0 +1,1010 @@
+research_paper_id,year,author_id,author,last_name,similar_surname,predicted_ethnicity
+13,2000,1,"Papageorgiou, Constantine P.",Papageorgiou,PAPAGEORGIOU,White
+15,2000,2,"Evgeniou, Theodoros",Evgeniou,NIOUS,Black
+15,2000,3,"Pontil, Massimiliano",Pontil,PONTILLO,Hispanic
+55,2001,4,"Sezgin, Tevfik Metin",Sezgin,SEZER,White
+56,2001,5,"Banks, Jessica",Banks,BANKS,Black
+57,2001,6,"Ucko, Aaron Mark",Ucko,BUCKO,White
+60,2001,7,"Ho, Purdy",Ho,HO,API
+61,2001,8,"Nagpal, Radhika",Nagpal,NAGPAL,API
+63,2001,9,"Alvira, Mariano",Alvira,ALVIRA,Hispanic
+63,2001,10,"Paris, Jim",Paris,PARIS,Hispanic
+63,2001,11,"Rifkin, Ryan",Rifkin,RIFKIN,White
+64,2001,12,"Chan, Nicholas T.",Chan,CHAN,API
+64,2001,13,"Dahan, Ely",Dahan,DAHAN,White
+64,2001,14,"Lo, Andrew W.",Lo,LO,API
+64,2001,15,"Poggio, Tomaso",Poggio,POGGIO,White
+65,2001,16,"Russell, Richard",Russell,RUSSELL,White
+65,2001,17,"Sinha, Pawan",Sinha,SINHA,API
+66,2001,18,"Torralba, Antonio",Torralba,TORRALBA,Hispanic
+66,2001,17,"Sinha, Pawan",Sinha,SINHA,API
+69,2001,19,"Zollei, Lilla",Zollei,ZOLLER,White
+70,2001,20,"Shelton, Christian Robert",Shelton,SHELTON,White
+71,2001,17,"Sinha, Pawan",Sinha,SINHA,API
+71,2001,18,"Torralba, Antonio",Torralba,TORRALBA,Hispanic
+72,2001,21,"Beal, Jacob",Beal,BEAL,White
+73,2001,22,"Yeo, Gene",Yeo,YEO,API
+73,2001,15,"Poggio, Tomaso",Poggio,POGGIO,White
+77,2001,23,"Rennie, Jason D. M.",Rennie,RENNIE,White
+78,2001,24,"Hong, Won",Hong,HONG,API
+79,2001,25,"Bryson, Joanna J.",Bryson,BRYSON,White
+80,2001,18,"Torralba, Antonio",Torralba,TORRALBA,Hispanic
+80,2001,17,"Sinha, Pawan",Sinha,SINHA,API
+81,2001,26,"Dror, Ron O.",Dror,DROR,White
+81,2001,27,"Adelson, Edward H.",Adelson,ADELSON,White
+81,2001,28,"Willsky, Alan S.",Willsky,WILLS,White
+82,2001,29,"Lee, Lily",Lee,LEE,API
+83,2001,30,"Miller, Erik G.",Miller,MILLER,White
+83,2001,31,"Tieu, Kinh",Tieu,TIEU,API
+83,2001,32,"Stauffer, Chris P.",Stauffer,STAUFFER,White
+84,2001,33,"Yu, Angela J.",Yu,YU,API
+84,2001,34,"Giese, Martin A.",Giese,GIESE,White
+84,2001,35,"Poggio, Tomaso A.",Poggio,POGGIO,White
+85,2001,36,"Taycher, Leonid",Taycher,TAYCO,Two or More Races
+85,2001,37,"Darrell, Trevor",Darrell,DARRELL,White
+86,2001,38,"Arkoudas, Konstantine",Arkoudas,MARKOU,White
+87,2001,38,"Arkoudas, Konstantine",Arkoudas,MARKOU,White
+88,2001,23,"Rennie, Jason D. M.",Rennie,RENNIE,White
+88,2001,11,"Rifkin, Ryan",Rifkin,RIFKIN,White
+89,2001,39,"Fleming, Roland W.",Fleming,FLEMING,White
+89,2001,26,"Dror, Ron O.",Dror,DROR,White
+89,2001,27,"Adelson, Edward H.",Adelson,ADELSON,White
+90,2001,26,"Dror, Ron O.",Dror,DROR,White
+90,2001,40,"Edward H. Adelson,",Edward H. Adelson,EDWARD,API
+90,2001,28,"Willsky, Alan S.",Willsky,WILLS,White
+92,2001,41,"Ostrovsky, Yuri",Ostrovsky,OSTROVSKY,White
+92,2001,42,"Cavanagh, Patrick",Cavanagh,CAVANAGH,White
+92,2001,17,"Sinha, Pawan",Sinha,SINHA,API
+93,2001,18,"Torralba, Antonio",Torralba,TORRALBA,Hispanic
+93,2001,17,"Sinha, Pawan",Sinha,SINHA,API
+94,2001,43,"Corduneanu, Adrian",Corduneanu,ORDUNEZ,Hispanic
+94,2001,44,"Jaakkola, Tommi",Jaakkola,LAAKKONEN,White
+95,2001,38,"Arkoudas, Konstantine",Arkoudas,MARKOU,White
+98,2001,18,"Torralba, Antonio",Torralba,TORRALBA,Hispanic
+98,2001,45,"Oliva, Aude",Oliva,OLIVA,Hispanic
+99,2001,46,"Riesenhuber, Maximilian",Riesenhuber,KASTENHUBER,White
+100,2001,47,"Yip, Andrew",Yip,YIP,API
+100,2001,17,"Sinha, Pawan",Sinha,SINHA,API
+103,2002,21,"Beal, Jacob",Beal,BEAL,White
+104,2002,37,"Darrell, Trevor",Darrell,DARRELL,White
+104,2002,48,"Checka, Neal",Checka,CHECK,White
+104,2002,49,"Oh, Alice",Oh,OH,API
+104,2002,50,"Morency, Louis-Philippe",Morency,MORENCY,White
+105,2002,51,"Freeman, William T.",Freeman,FREEMAN,White
+105,2002,52,"Zhang, Hao",Zhang,ZHANG,API
+118,2002,15,"Poggio, Tomaso",Poggio,POGGIO,White
+118,2002,11,"Rifkin, Ryan",Rifkin,RIFKIN,White
+118,2002,53,"Mukherjee, Sayan",Mukherjee,MUKHERJEE,API
+118,2002,54,"Rakhlin, Alex",Rakhlin,NAKHLE,White
+120,2002,55,"Knoblich, Ulf",Knoblich,KNOBLICH,White
+120,2002,56,"Riesenhuber, Maximilan",Riesenhuber,KASTENHUBER,White
+121,2002,57,"Sullivan, Gregory T.",Sullivan,SULLIVAN,White
+124,2002,58,"Finney, Sarah",Finney,FINNEY,White
+124,2002,59,"Gardiol, Natalia H.",Gardiol,GARDI,White
+124,2002,60,"Kaelbling, Leslie Pack",Kaelbling,HELBLING,White
+124,2002,61,"Oates, Tim",Oates,OATES,White
+125,2002,55,"Knoblich, Ulf",Knoblich,KNOBLICH,White
+125,2002,62,"Freedman, David J.",Freedman,FREEDMAN,White
+125,2002,46,"Riesenhuber, Maximilian",Riesenhuber,KASTENHUBER,White
+129,2002,63,"Steinbach, Carl",Steinbach,STEINBACH,White
+130,2002,64,"Huang, Andrew ""bunnie""",Huang,HUANG,API
+137,2002,64,"Huang, Andrew ""bunnie""",Huang,HUANG,API
+138,2002,65,"Brown, Jeremy Hanford",Brown,BROWN,White
+139,2002,66,"Kim, Adlar J.",Kim,KIM,API
+139,2002,67,"Shelton, Christian R.",Shelton,SHELTON,White
+140,2002,68,"III, Teodoro Arvizo",III,II,API
+146,2002,69,"Werfel, Justin",Werfel,WERFEL,White
+150,2002,70,"Schneider, Robert",Schneider,SCHNEIDER,White
+150,2002,46,"Riesenhuber, Maximilian",Riesenhuber,KASTENHUBER,White
+151,2002,71,"Giese, Martin Alexander",Giese,GIESE,White
+151,2002,15,"Poggio, Tomaso",Poggio,POGGIO,White
+152,2002,72,"Giese, M.A.",Giese,GIESE,White
+152,2002,73,"Xie, X.",Xie,XIE,API
+155,2002,74,"Steck, Harald",Steck,STECK,White
+155,2002,75,"Jaakkola, Tommi S.",Jaakkola,LAAKKONEN,White
+156,2002,51,"Freeman, William T.",Freeman,FREEMAN,White
+156,2002,18,"Torralba, Antonio",Torralba,TORRALBA,Hispanic
+157,2002,76,"Tappen, Marshall F.",Tappen,TAPPEN,White
+157,2002,51,"Freeman, William T.",Freeman,FREEMAN,White
+157,2002,27,"Adelson, Edward H.",Adelson,ADELSON,White
+158,2002,77,"Kumar, Vinay P.",Kumar,KUMAR,API
+163,2002,26,"Dror, Ron O.",Dror,DROR,White
+164,2002,78,"Van Eepoel, John M.",Van Eepoel,POEL,White
+170,2002,79,"Sussman, Gerald Jay",Sussman,SUSSMAN,White
+170,2002,80,"Wisdom, Jack",Wisdom,WISDOM,White
+171,2002,80,"Wisdom, Jack",Wisdom,WISDOM,White
+176,2002,81,"Sudderth, Erik B.",Sudderth,SUDDERTH,White
+176,2002,82,"Ihler, Alexander T.",Ihler,IHLER,White
+176,2002,51,"Freeman, William T.",Freeman,FREEMAN,White
+176,2002,28,"Willsky, Alan S.",Willsky,WILLS,White
+177,2002,21,"Beal, Jacob",Beal,BEAL,White
+178,2002,83,"Bouvrie, Jake V.",Bouvrie,BOUVIER,White
+179,2002,53,"Mukherjee, Sayan",Mukherjee,MUKHERJEE,API
+179,2002,84,"Niyogi, Partha",Niyogi,YOGI,API
+179,2002,15,"Poggio, Tomaso",Poggio,POGGIO,White
+179,2002,11,"Rifkin, Ryan",Rifkin,RIFKIN,White
+180,2002,18,"Torralba, Antonio",Torralba,TORRALBA,Hispanic
+180,2002,51,"Freeman, William T.",Freeman,FREEMAN,White
+181,2002,85,"Perez-Breva, Luis",Perez-Breva,PEREZ,Hispanic
+181,2002,86,"Yoshimi, Osamu",Yoshimi,YOSHIMI,API
+182,2002,87,"Grossman, J.P.",Grossman,GROSSMAN,White
+192,2003,88,"Srebro, Nathan",Srebro,SREBRO,White
+192,2003,44,"Jaakkola, Tommi",Jaakkola,LAAKKONEN,White
+195,2003,89,"Adler, Aaron D.",Adler,ADLER,White
+196,2003,90,"Kim, Philip Mjong-Hyon Shin",Kim,KIM,API
+197,2003,91,"Chklovski, Timothy",Chklovski,NIKOLOVSKI,White
+198,2003,92,"Peshkin, Leonid",Peshkin,RASHKIN,White
+199,2003,74,"Steck, Harald",Steck,STECK,White
+199,2003,75,"Jaakkola, Tommi S.",Jaakkola,LAAKKONEN,White
+200,2003,93,"Geiger, Gadi",Geiger,GEIGER,White
+200,2003,94,"Ezzat, Tony",Ezzat,EZZAT,White
+200,2003,15,"Poggio, Tomaso",Poggio,POGGIO,White
+206,2003,95,"Jarudi, Izzat N.",Jarudi,RUDI,White
+206,2003,17,"Sinha, Pawan",Sinha,SINHA,API
+207,2003,21,"Beal, Jacob",Beal,BEAL,White
+208,2003,18,"Torralba, Antonio",Torralba,TORRALBA,Hispanic
+208,2003,96,"Murphy, Kevin P.",Murphy,MURPHY,White
+208,2003,51,"Freeman, William T.",Freeman,FREEMAN,White
+208,2003,97,"Rubin, Mark A.",Rubin,RUBIN,White
+212,2003,98,"Alvarado, Christine",Alvarado,ALVARADO,Hispanic
+212,2003,99,"Teevan, Jaime",Teevan,TEEVAN,White
+212,2003,100,"Ackerman, Mark S.",Ackerman,ACKERMAN,White
+212,2003,101,"Karger, David",Karger,KARGER,White
+213,2003,21,"Beal, Jacob",Beal,BEAL,White
+214,2003,102,"Grauman, Kristen",Grauman,GRAUMAN,White
+214,2003,103,"Shakhnarovich, Gregory",Shakhnarovich,MAROVICH,White
+214,2003,37,"Darrell, Trevor",Darrell,DARRELL,White
+215,2003,104,"Christoudias, Chris Mario",Christoudias,CHRISTOU,White
+215,2003,50,"Morency, Louis-Philippe",Morency,MORENCY,White
+215,2003,37,"Darrell, Trevor",Darrell,DARRELL,White
+216,2003,103,"Shakhnarovich, Gregory",Shakhnarovich,MAROVICH,White
+216,2003,105,"Viola, Paul",Viola,VIOLA,White
+216,2003,37,"Darrell, Trevor",Darrell,DARRELL,White
+223,2003,50,"Morency, Louis-Philippe",Morency,MORENCY,White
+225,2003,21,"Beal, Jacob",Beal,BEAL,White
+226,2003,106,"Martin, Martin C.",Martin,MARTIN,White
+227,2003,102,"Grauman, Kristen",Grauman,GRAUMAN,White
+228,2003,107,"Wehowsky, Andreas F.",Wehowsky,LACHOWSKY,White
+233,2003,108,"Das, Sanmay",Das,DAS,API
+234,2003,109,"Gajos, Krzysztof",Gajos,AJOSE,Black
+234,2003,110,"Shrobe, Howard",Shrobe,SHROBA,White
+235,2003,111,"Louie, Jennifer",Louie,LOUIE,White
+236,2003,112,"Rosen, Ezra",Rosen,ROSEN,White
+237,2003,113,"Koile, Kimberle",Koile,OILER,White
+237,2003,114,"Tollmar, Konrad",Tollmar,TOLLMAN,White
+237,2003,115,"Demirdjian, David",Demirdjian,DEMIRDJIAN,White
+237,2003,110,"Shrobe, Howard",Shrobe,SHROBA,White
+237,2003,37,"Darrell, Trevor",Darrell,DARRELL,White
+238,2003,116,"Monteleoni, Claire",Monteleoni,MONTELEON,White
+239,2003,117,"Marjanovic, Matthew J.",Marjanovic,MARJANOVIC,White
+240,2003,29,"Lee, Lily",Lee,LEE,API
+241,2003,118,"Timoner, Samson",Timoner,TIMON,Black
+242,2003,118,"Timoner, Samson",Timoner,TIMON,Black
+249,2003,119,"Felzenszwalb, Pedro F.",Felzenszwalb,FELZER,White
+250,2003,119,"Felzenszwalb, Pedro F.",Felzenszwalb,FELZER,White
+252,2003,21,"Beal, Jacob",Beal,BEAL,White
+253,2003,21,"Beal, Jacob",Beal,BEAL,White
+254,2003,120,"Balas, Benjamin J.",Balas,BALAS,White
+254,2003,17,"Sinha, Pawan",Sinha,SINHA,API
+255,2003,120,"Balas, Benjamin J.",Balas,BALAS,White
+255,2003,17,"Sinha, Pawan",Sinha,SINHA,API
+257,2003,121,"Shimizu, Hiroaki",Shimizu,SHIMIZU,API
+257,2003,15,"Poggio, Tomaso",Poggio,POGGIO,White
+259,2003,121,"Shimizu, Hiroaki",Shimizu,SHIMIZU,API
+259,2003,15,"Poggio, Tomaso",Poggio,POGGIO,White
+260,2003,53,"Mukherjee, Sayan",Mukherjee,MUKHERJEE,API
+260,2003,122,"Golland, Polina",Golland,GOLLAN,White
+260,2003,123,"Panchenko, Dmitry",Panchenko,PANCHENKO,White
+261,2003,53,"Mukherjee, Sayan",Mukherjee,MUKHERJEE,API
+261,2003,122,"Golland, Polina",Golland,GOLLAN,White
+261,2003,123,"Panchenko, Dmitry",Panchenko,PANCHENKO,White
+262,2003,124,"Che, Austin",Che,CHE,Black
+263,2003,124,"Che, Austin",Che,CHE,Black
+264,2003,125,"Ross, Michael G.",Ross,ROSS,White
+264,2003,60,"Kaelbling, Leslie Pack",Kaelbling,HELBLING,White
+265,2003,126,"Kouh, Minjoon",Kouh,KOU,API
+265,2003,46,"Riesenhuber, Maximilian",Riesenhuber,KASTENHUBER,White
+266,2003,125,"Ross, Michael G.",Ross,ROSS,White
+266,2003,60,"Kaelbling, Leslie Pack",Kaelbling,HELBLING,White
+267,2003,126,"Kouh, Minjoon",Kouh,KOU,API
+267,2003,46,"Riesenhuber, Maximilian",Riesenhuber,KASTENHUBER,White
+274,2003,127,"Eisenstein, Jacob",Eisenstein,EISENSTEIN,White
+275,2003,127,"Eisenstein, Jacob",Eisenstein,EISENSTEIN,White
+280,2003,128,"Morgenstern, Christian",Morgenstern,MORGENSTERN,White
+280,2003,129,"Heisele, Bernd",Heisele,HEISEL,White
+281,2003,128,"Morgenstern, Christian",Morgenstern,MORGENSTERN,White
+281,2003,129,"Heisele, Bernd",Heisele,HEISEL,White
+282,2003,130,"Chang, Yu-Han",Chang,CHANG,API
+282,2003,131,"Ho, Tracey",Ho,HO,API
+282,2003,60,"Kaelbling, Leslie Pack",Kaelbling,HELBLING,White
+283,2003,130,"Chang, Yu-Han",Chang,CHANG,API
+283,2003,131,"Ho, Tracey",Ho,HO,API
+283,2003,60,"Kaelbling, Leslie Pack",Kaelbling,HELBLING,White
+284,2003,102,"Grauman, Kristen",Grauman,GRAUMAN,White
+284,2003,37,"Darrell, Trevor",Darrell,DARRELL,White
+285,2003,102,"Grauman, Kristen",Grauman,GRAUMAN,White
+285,2003,37,"Darrell, Trevor",Darrell,DARRELL,White
+287,2003,21,"Beal, Jacob",Beal,BEAL,White
+287,2003,132,"Gilbert, Seth",Gilbert,GILBERT,White
+288,2003,21,"Beal, Jacob",Beal,BEAL,White
+288,2003,132,"Gilbert, Seth",Gilbert,GILBERT,White
+290,2004,70,"Schneider, Robert",Schneider,SCHNEIDER,White
+290,2004,46,"Riesenhuber, Maximilian",Riesenhuber,KASTENHUBER,White
+291,2004,70,"Schneider, Robert",Schneider,SCHNEIDER,White
+291,2004,46,"Riesenhuber, Maximilian",Riesenhuber,KASTENHUBER,White
+292,2004,133,"Rakhlin, Alexander",Rakhlin,NAKHLE,White
+292,2004,123,"Panchenko, Dmitry",Panchenko,PANCHENKO,White
+292,2004,53,"Mukherjee, Sayan",Mukherjee,MUKHERJEE,API
+293,2004,134,"Wolf, Lior",Wolf,WOLF,White
+293,2004,135,"Amnon Shashua,",Amnon Shashua,LASHUA,White
+293,2004,53,"Mukherjee, Sayan",Mukherjee,MUKHERJEE,API
+294,2004,134,"Wolf, Lior",Wolf,WOLF,White
+294,2004,136,"Shashua, Amnon",Shashua,LASHUA,White
+294,2004,53,"Mukherjee, Sayan",Mukherjee,MUKHERJEE,API
+295,2004,133,"Rakhlin, Alexander",Rakhlin,NAKHLE,White
+295,2004,123,"Panchenko, Dmitry",Panchenko,PANCHENKO,White
+295,2004,53,"Mukherjee, Sayan",Mukherjee,MUKHERJEE,API
+296,2004,102,"Grauman, Kristen",Grauman,GRAUMAN,White
+296,2004,103,"Shakhnarovich, Gregory",Shakhnarovich,MAROVICH,White
+296,2004,37,"Darrell, Trevor",Darrell,DARRELL,White
+297,2004,102,"Grauman, Kristen",Grauman,GRAUMAN,White
+297,2004,103,"Shakhnarovich, Gregory",Shakhnarovich,MAROVICH,White
+297,2004,37,"Darrell, Trevor",Darrell,DARRELL,White
+299,2004,110,"Shrobe, Howard",Shrobe,SHROBA,White
+299,2004,137,"Laddaga, Robert",Laddaga,DAGA,API
+300,2004,110,"Shrobe, Howard",Shrobe,SHROBA,White
+300,2004,137,"Laddaga, Robert",Laddaga,DAGA,API
+304,2004,138,Riesenhuber,Riesenhuber,KASTENHUBER,White
+304,2004,139,Jarudi,Jarudi,RUDI,White
+304,2004,140,Gilad,Gilad,GILAD,White
+304,2004,141,Sinha,Sinha,SINHA,API
+305,2004,138,Riesenhuber,Riesenhuber,KASTENHUBER,White
+305,2004,139,Jarudi,Jarudi,RUDI,White
+305,2004,140,Gilad,Gilad,GILAD,White
+305,2004,141,Sinha,Sinha,SINHA,API
+308,2004,142,"Yokono, Jerry Jun",Yokono,OKON,White
+308,2004,15,"Poggio, Tomaso",Poggio,POGGIO,White
+309,2004,142,"Yokono, Jerry Jun",Yokono,OKON,White
+309,2004,15,"Poggio, Tomaso",Poggio,POGGIO,White
+315,2004,18,"Torralba, Antonio",Torralba,TORRALBA,Hispanic
+317,2004,18,"Torralba, Antonio",Torralba,TORRALBA,Hispanic
+317,2004,96,"Murphy, Kevin P.",Murphy,MURPHY,White
+317,2004,51,"Freeman, William T.",Freeman,FREEMAN,White
+318,2004,18,"Torralba, Antonio",Torralba,TORRALBA,Hispanic
+320,2004,18,"Torralba, Antonio",Torralba,TORRALBA,Hispanic
+320,2004,96,"Murphy, Kevin P.",Murphy,MURPHY,White
+320,2004,51,"Freeman, William T.",Freeman,FREEMAN,White
+321,2004,85,"Perez-Breva, Luis",Perez-Breva,PEREZ,Hispanic
+323,2004,142,"Yokono, Jerry Jun",Yokono,OKON,White
+323,2004,15,"Poggio, Tomaso",Poggio,POGGIO,White
+324,2004,142,"Yokono, Jerry Jun",Yokono,OKON,White
+324,2004,15,"Poggio, Tomaso",Poggio,POGGIO,White
+325,2004,19,"Zollei, Lilla",Zollei,ZOLLER,White
+325,2004,143,"Fisher, John",Fisher,FISHER,White
+325,2004,144,"Wells, William",Wells,WELLS,White
+326,2004,19,"Zollei, Lilla",Zollei,ZOLLER,White
+326,2004,143,"Fisher, John",Fisher,FISHER,White
+326,2004,144,"Wells, William",Wells,WELLS,White
+332,2004,145,"Kennell, Jonathan",Kennell,KENNELL,Black
+333,2004,146,"Stamatoiu, Oana L.",Stamatoiu,STAMATO,White
+334,2004,145,"Kennell, Jonathan",Kennell,KENNELL,Black
+336,2004,146,"Stamatoiu, Oana L.",Stamatoiu,STAMATO,White
+338,2004,147,"Goler, Jonathan A.",Goler,GOLER,White
+339,2004,147,"Goler, Jonathan A.",Goler,GOLER,White
+343,2004,148,"Hearn, Robert A.",Hearn,HEARN,White
+344,2004,148,"Hearn, Robert A.",Hearn,HEARN,White
+345,2004,99,"Teevan, Jaime",Teevan,TEEVAN,White
+346,2004,99,"Teevan, Jaime",Teevan,TEEVAN,White
+348,2004,18,"Torralba, Antonio",Torralba,TORRALBA,Hispanic
+348,2004,96,"Murphy, Kevin P.",Murphy,MURPHY,White
+348,2004,51,"Freeman, William T.",Freeman,FREEMAN,White
+349,2004,18,"Torralba, Antonio",Torralba,TORRALBA,Hispanic
+349,2004,96,"Murphy, Kevin P.",Murphy,MURPHY,White
+349,2004,51,"Freeman, William T.",Freeman,FREEMAN,White
+351,2004,149,"Indyk, Piotr",Indyk,INDYK,White
+351,2004,150,"Woodruff, David",Woodruff,WOODRUFF,White
+352,2004,149,"Indyk, Piotr",Indyk,INDYK,White
+352,2004,150,"Woodruff, David",Woodruff,WOODRUFF,White
+353,2004,151,"Badoiu, Mihai",Badoiu,BADO,Black
+353,2004,149,"Indyk, Piotr",Indyk,INDYK,White
+353,2004,152,"Sidiropoulos, Anastasios",Sidiropoulos,SIDIROPOULOS,White
+354,2004,151,"Badoiu, Mihai",Badoiu,BADO,Black
+354,2004,149,"Indyk, Piotr",Indyk,INDYK,White
+354,2004,152,"Sidiropoulos, Anastasios",Sidiropoulos,SIDIROPOULOS,White
+359,2004,153,"Kemp, Charles",Kemp,KEMP,White
+359,2004,154,"Griffiths, Thomas L.",Griffiths,GRIFFITHS,Black
+359,2004,155,"Tenenbaum, Joshua B.",Tenenbaum,TENENBAUM,White
+360,2004,156,"Uzuner, Ozlem",Uzuner,UZUN,White
+361,2004,157,"Serre, Thomas",Serre,SERRE,White
+361,2004,46,"Riesenhuber, Maximilian",Riesenhuber,KASTENHUBER,White
+362,2004,4,"Sezgin, Tevfik Metin",Sezgin,SEZER,White
+362,2004,158,"Davis, Randall",Davis,DAVIS,White
+366,2004,159,"Kreiman, Gabriel",Kreiman,KREIMAN,White
+366,2004,160,"Hung, Chou",Hung,HUNG,API
+366,2004,15,"Poggio, Tomaso",Poggio,POGGIO,White
+366,2004,161,"DiCarlo, James",DiCarlo,DICARLO,White
+367,2004,162,"Arsenio, Artur Miguel",Arsenio,ARSENIO,Black
+368,2004,163,"Benjamin, Michael R.",Benjamin,BENJAMIN,White
+369,2004,22,"Yeo, Gene",Yeo,YEO,API
+369,2004,164,"Van Nostrand, Eric",Van Nostrand,VANOSTRAND,White
+369,2004,165,"Holste, Dirk",Holste,HOLSTE,White
+369,2004,15,"Poggio, Tomaso",Poggio,POGGIO,White
+369,2004,166,"Burge, Christopher",Burge,BURGE,White
+370,2004,167,"Tucker-Kellogg, Lisa",Tucker-Kellogg,KELLOGG,White
+375,2004,168,"Steinkraus, Kurt",Steinkraus,STEINKRAUS,White
+375,2004,60,"Kaelbling, Leslie Pack",Kaelbling,HELBLING,White
+380,2004,69,"Werfel, Justin",Werfel,WERFEL,White
+382,2004,169,"Cadieu, Charles",Cadieu,CADIEU,White
+382,2004,126,"Kouh, Minjoon",Kouh,KOU,API
+382,2004,46,"Riesenhuber, Maximilian",Riesenhuber,KASTENHUBER,White
+382,2004,15,"Poggio, Tomaso",Poggio,POGGIO,White
+383,2004,134,"Wolf, Lior",Wolf,WOLF,White
+383,2004,170,"Martin, Ian",Martin,MARTIN,White
+384,2004,157,"Serre, Thomas",Serre,SERRE,White
+384,2004,134,"Wolf, Lior",Wolf,WOLF,White
+384,2004,15,"Poggio, Tomaso",Poggio,POGGIO,White
+386,2004,88,"Srebro, Nathan",Srebro,SREBRO,White
+387,2004,102,"Grauman, Kristen",Grauman,GRAUMAN,White
+387,2004,37,"Darrell, Trevor",Darrell,DARRELL,White
+391,2004,171,"Liang, Percy",Liang,LIANG,API
+391,2004,88,"Srebro, Nathan",Srebro,SREBRO,White
+392,2004,126,"Kouh, Minjoon",Kouh,KOU,API
+392,2004,15,"Poggio, Tomaso",Poggio,POGGIO,White
+393,2004,172,"Richards, Whitman",Richards,RICHARDS,White
+393,2004,173,"Seung, H. Sebastian",Seung,SEUNG,API
+398,2005,21,"Beal, Jacob",Beal,BEAL,White
+398,2005,174,"Sussman, Gerald",Sussman,SUSSMAN,White
+400,2005,175,"Kondacs, Attila",Kondacs,KONDA,API
+402,2005,79,"Sussman, Gerald Jay",Sussman,SUSSMAN,White
+402,2005,80,"Wisdom, Jack",Wisdom,WISDOM,White
+403,2005,176,"Balas, Benjamin",Balas,BALAS,White
+406,2005,177,"Riemann, Reina",Riemann,RIEMANN,White
+406,2005,178,"Winstein, Keith",Winstein,EINSTEIN,White
+408,2005,179,"Sivic, Josef",Sivic,SIVICK,White
+408,2005,180,"Russell, Bryan C.",Russell,RUSSELL,White
+408,2005,181,"Efros, Alexei A.",Efros,EFROS,White
+408,2005,182,"Zisserman, Andrew",Zisserman,ZISSER,White
+408,2005,51,"Freeman, William T.",Freeman,FREEMAN,White
+410,2005,176,"Balas, Benjamin",Balas,BALAS,White
+410,2005,17,"Sinha, Pawan",Sinha,SINHA,API
+412,2005,36,"Taycher, Leonid",Taycher,TAYCO,Two or More Races
+412,2005,183,"Fisher III, John W.",Fisher III,II,API
+412,2005,37,"Darrell, Trevor",Darrell,DARRELL,White
+413,2005,102,"Grauman, Kristen",Grauman,GRAUMAN,White
+413,2005,37,"Darrell, Trevor",Darrell,DARRELL,White
+415,2005,134,"Wolf, Lior",Wolf,WOLF,White
+415,2005,184,"Bileschi, Stanley",Bileschi,BILES,White
+416,2005,185,"Pohl, Kilian M.",Pohl,POHL,White
+416,2005,143,"Fisher, John",Fisher,FISHER,White
+416,2005,186,"Grimson, W. Eric L.",Grimson,GRIMSON,White
+416,2005,187,"Wells, William M.",Wells,WELLS,White
+420,2005,69,"Werfel, Justin",Werfel,WERFEL,White
+420,2005,188,"Bar-Yam, Yaneer",Bar-Yam,YAM,Hispanic
+420,2005,8,"Nagpal, Radhika",Nagpal,NAGPAL,API
+422,2005,21,"Beal, Jacob",Beal,BEAL,White
+423,2005,189,"Caponnetto, Andrea",Caponnetto,CAPONETTO,White
+423,2005,190,"Vito, Ernesto De",Vito,VITO,White
+424,2005,127,"Eisenstein, Jacob",Eisenstein,EISENSTEIN,White
+424,2005,158,"Davis, Randall",Davis,DAVIS,White
+425,2005,191,"Taylor, Christopher",Taylor,TAYLOR,White
+425,2005,192,"Rahimi, Ali",Rahimi,RAHIMI,White
+425,2005,193,"Bachrach, Jonathan",Bachrach,BACHRACH,White
+425,2005,110,"Shrobe, Howard",Shrobe,SHROBA,White
+427,2005,190,"Vito, Ernesto De",Vito,VITO,White
+427,2005,189,"Caponnetto, Andrea",Caponnetto,CAPONETTO,White
+429,2005,189,"Caponnetto, Andrea",Caponnetto,CAPONETTO,White
+429,2005,133,"Rakhlin, Alexander",Rakhlin,NAKHLE,White
+430,2005,194,"Nahnsen, Thade",Nahnsen,BAHNSEN,White
+430,2005,156,"Uzuner, Ozlem",Uzuner,UZUN,White
+430,2005,195,"Katz, Boris",Katz,KATZ,White
+432,2005,196,"Wu, Jia Jane",Wu,WU,API
+433,2005,189,"Caponnetto, Andrea",Caponnetto,CAPONETTO,White
+433,2005,197,"Rosasco, Lorenzo",Rosasco,ROSASCO,White
+433,2005,190,"Vito, Ernesto De",Vito,VITO,White
+433,2005,198,"Verri, Alessandro",Verri,VERRI,White
+434,2005,199,"Taylor, Christopher J.",Taylor,TAYLOR,White
+435,2005,200,"Segonne, Florent",Segonne,SEGO,White
+435,2005,201,"Pons, Jean-Philippe",Pons,PONS,Hispanic
+435,2005,202,"Fischl, Bruce",Fischl,FISCHL,White
+435,2005,203,"Grimson, Eric",Grimson,GRIMSON,White
+438,2005,204,"rahimi, ali",rahimi,RAHIMI,White
+438,2005,205,"recht, ben",recht,RECHT,White
+438,2005,206,"darrell, trevor",darrell,DARRELL,White
+443,2005,160,"Hung, Chou",Hung,HUNG,API
+443,2005,159,"Kreiman, Gabriel",Kreiman,KREIMAN,White
+443,2005,15,"Poggio, Tomaso",Poggio,POGGIO,White
+443,2005,207,"DiCarlo, James J.",DiCarlo,DICARLO,White
+444,2005,142,"Yokono, Jerry Jun",Yokono,OKON,White
+444,2005,15,"Poggio, Tomaso",Poggio,POGGIO,White
+454,2005,172,"Richards, Whitman",Richards,RICHARDS,White
+456,2005,180,"Russell, Bryan C.",Russell,RUSSELL,White
+456,2005,18,"Torralba, Antonio",Torralba,TORRALBA,Hispanic
+456,2005,96,"Murphy, Kevin P.",Murphy,MURPHY,White
+456,2005,51,"Freeman, William T.",Freeman,FREEMAN,White
+457,2005,208,"Stauffer, Chris",Stauffer,STAUFFER,White
+458,2005,209,"Theocharous, Georgios",Theocharous,THEOC,Black
+458,2005,210,"Mahadevan, Sridhar",Mahadevan,MAHADEVAN,API
+458,2005,60,"Kaelbling, Leslie Pack",Kaelbling,HELBLING,White
+463,2005,108,"Das, Sanmay",Das,DAS,API
+465,2005,93,"Geiger, Gadi",Geiger,GEIGER,White
+465,2005,211,"Amara, Domenic G",Amara,AMARA,White
+467,2005,212,"Lippert, Ross",Lippert,LIPPERT,White
+467,2005,11,"Rifkin, Ryan",Rifkin,RIFKIN,White
+473,2005,213,"Andoni, Alexandr",Andoni,ANDONI,White
+473,2005,149,"Indyk, Piotr",Indyk,INDYK,White
+475,2005,116,"Monteleoni, Claire",Monteleoni,MONTELEON,White
+475,2005,44,"Jaakkola, Tommi",Jaakkola,LAAKKONEN,White
+476,2005,214,"Dasgupta, Sanjoy",Dasgupta,DASGUPTA,API
+476,2005,215,"Kalai, Adam Tauman",Kalai,KALAI,Two or More Races
+476,2005,116,"Monteleoni, Claire",Monteleoni,MONTELEON,White
+477,2005,156,"Uzuner, Ozlem",Uzuner,UZUN,White
+481,2005,36,"Taycher, Leonid",Taycher,TAYCO,Two or More Races
+481,2005,103,"Shakhnarovich, Gregory",Shakhnarovich,MAROVICH,White
+481,2005,115,"Demirdjian, David",Demirdjian,DEMIRDJIAN,White
+481,2005,37,"Darrell, Trevor",Darrell,DARRELL,White
+482,2005,216,"Ivanov, Yuri",Ivanov,IVANOV,White
+482,2005,157,"Serre, Thomas",Serre,SERRE,White
+482,2005,217,"Bouvrie, Jacob",Bouvrie,BOUVIER,White
+483,2005,218,"Serre, T.",Serre,SERRE,White
+483,2005,219,"Kouh, M.",Kouh,KOU,API
+483,2005,220,"Cadieu, C.",Cadieu,CADIEU,White
+483,2005,221,"Knoblich, U.",Knoblich,KNOBLICH,White
+483,2005,222,"Kreiman, G.",Kreiman,KREIMAN,White
+483,2005,223,"Poggio, T.",Poggio,POGGIO,White
+733,2009,163,"Benjamin, Michael R.",Benjamin,BENJAMIN,White
+733,2009,224,"Leonard, John J.",Leonard,LEONARD,White
+733,2009,225,"Schmidt, Henrik",Schmidt,SCHMIDT,White
+733,2009,226,"Newman, Paul M.",Newman,NEWMAN,White
+783,2010,227,"Li, Hui X.",Li,LI,API
+1023,2016,228,"Kawaguchi, Kenji",Kawaguchi,KAWAGUCHI,White
+1055,2018,229,"Unhelkar, Vaibhav V.",Unhelkar,HELKA,White
+1055,2018,230,"Shah, Julie A.",Shah,SHAH,API
+711,2009,231,"Perli, Samuel David",Perli,PERLIN,White
+711,2009,232,"Gollakota, Shyamnath",Gollakota,LAKOTA,White
+711,2009,233,"Katabi, Dina",Katabi,TABI,API
+786,2010,234,"Igarashi, Takeo",Igarashi,IGARASHI,API
+786,2010,235,"Durand, Fredo",Durand,DURAND,Black
+786,2010,236,"Rivers, Alec",Rivers,RIVERS,Black
+341,2004,237,"Taylor, Michael Bedford",Taylor,TAYLOR,White
+341,2004,238,"Lee, Walter",Lee,LEE,API
+341,2004,239,"Amarasinghe, Saman",Amarasinghe,AMARASINGHE,API
+341,2004,240,"Agarwal, Anant",Agarwal,AGARWAL,API
+1033,2016,241,"Eisenberg, Joshua D.",Eisenberg,EISENBERG,White
+1033,2016,242,"Finlayson, Mark A.",Finlayson,FINLAYSON,White
+718,2009,243,"Zhou, You",Zhou,ZHOU,API
+523,2006,244,"Dalley, Gerald",Dalley,DALLEY,White
+523,2006,245,"Izo, Tomas",Izo,RIZO,Hispanic
+1070,2022,246,"Wang, Yanwei",Wang,WANG,API
+1070,2022,247,"Shah, Julie",Shah,SHAH,API
+1003,2015,248,"Qi, Zichao",Qi,QI,API
+1003,2015,249,"Long, Fan",Long,LONG,White
+1003,2015,250,"Achour, Sara",Achour,ACHOUR,White
+1003,2015,251,"Rinard, Martin",Rinard,RINARD,White
+979,2014,252,"Finlayson, Mark Alan",Finlayson,FINLAYSON,White
+982,2015,248,"Qi, Zichao",Qi,QI,API
+982,2015,249,"Long, Fan",Long,LONG,White
+982,2015,250,"Achour, Sara",Achour,ACHOUR,White
+982,2015,251,"Rinard, Martin",Rinard,RINARD,White
+9,2000,253,"Bruening, Derek",Bruening,BRUENING,White
+9,2000,254,"Chapin, John",Chapin,CHAPIN,White
+1046,2017,255,"Shen, Jiasi",Shen,SHEN,API
+1046,2017,251,"Rinard, Martin",Rinard,RINARD,White
+511,2006,256,"Leaute, Thomas",Leaute,AUTER,White
+1002,2015,257,"Kjolstad, Fredrik",Kjolstad,OLSTAD,White
+1002,2015,258,"Kamil, Shoaib",Kamil,KAMIL,White
+1002,2015,259,"Ragan-Kelley, Jonathan",Ragan-Kelley,KELLEY,White
+1002,2015,260,"Levin, David I.W.",Levin,LEVIN,White
+1002,2015,261,"Sueda, Shinjiro",Sueda,SUEDA,API
+1002,2015,262,"Chen, Desai",Chen,CHEN,API
+1002,2015,263,"Vouga, Etienne",Vouga,VOUGH,White
+1002,2015,264,"Kaufman, Danny M.",Kaufman,KAUFMAN,White
+1002,2015,265,"Kanwar, Gurtej",Kanwar,KANWAR,API
+1002,2015,266,"Matusik, Wojciech",Matusik,MATUSIK,White
+1002,2015,239,"Amarasinghe, Saman",Amarasinghe,AMARASINGHE,API
+1063,2019,267,"Bhargava, Nikhil",Bhargava,BHARGAVA,API
+1063,2019,268,"Williams, Brian C.",Williams,WILLIAMS,Black
+1074,2023,269,"Makatura, Liane",Makatura,MAKATURA,White
+1074,2023,270,"Foshey, Michael",Foshey,FOSHE,White
+1074,2023,271,"Wang, Bohan",Wang,WANG,API
+1074,2023,272,"Hähnlein, Felix",Hähnlein,BOEHNLEIN,White
+1074,2023,273,"Ma, Pingchuan",Ma,MA,API
+1074,2023,274,"Deng, Bolei",Deng,DENG,API
+1074,2023,275,"Tjandrasuwita, Megan",Tjandrasuwita,TJANDRA,API
+1074,2023,276,"Spielberg, Andrew",Spielberg,SPIELBERG,White
+1074,2023,277,"Owens, Crystal Elaine",Owens,OWENS,White
+1074,2023,278,"Chen, Peter Yichen",Chen,CHEN,API
+1074,2023,279,"Zhao, Allan",Zhao,ZHAO,API
+1074,2023,280,"Zhu, Amy",Zhu,ZHU,API
+1074,2023,281,"Norton, Wil J",Norton,NORTON,White
+1074,2023,282,"Gu, Edward",Gu,GU,API
+1074,2023,283,"Jacob, Joshua",Jacob,JACOB,White
+1074,2023,284,"Li, Yifei",Li,LI,API
+1074,2023,285,"Schulz, Adriana",Schulz,SCHULZ,White
+1074,2023,266,"Matusik, Wojciech",Matusik,MATUSIK,White
+886,2012,286,"Sun, Chen",Sun,SUN,API
+886,2012,287,"Chen, Chia-Hsin Owen",Chen,CHEN,API
+886,2012,288,"Kurian, George",Kurian,KURIAN,API
+886,2012,289,"Wei, Lan",Wei,WEI,API
+886,2012,290,"Miller, Jason",Miller,MILLER,White
+886,2012,240,"Agarwal, Anant",Agarwal,AGARWAL,API
+886,2012,291,"Peh, Li-Shiuan",Peh,SPEH,White
+886,2012,292,"Stojanovic, Vladimir",Stojanovic,STOJANOVIC,White
+405,2005,293,"Feamster, Nick",Feamster,FEAMSTER,White
+405,2005,294,"Johari, Ramesh",Johari,JOHARI,Hispanic
+405,2005,295,"Balakrishnan, Hari",Balakrishnan,BALAKRISHNAN,API
+651,2008,233,"Katabi, Dina",Katabi,TABI,API
+651,2008,232,"Gollakota, Shyamnath",Gollakota,LAKOTA,White
+132,2002,296,"Liskov, Barbara H.",Liskov,LISKO,White
+132,2002,297,"Moh, Chuang-Hue",Moh,MOH,API
+132,2002,298,"Richman, Steven",Richman,RICHMAN,White
+132,2002,299,"Shrira, Liuba",Shrira,SHRIER,White
+132,2002,300,"Chueng, Yin",Chueng,CHUEN,API
+132,2002,301,"Boyapati, Chandrasekhar",Boyapati,BOYAPATI,API
+890,2012,302,"Isik, Leyla",Isik,ISIK,White
+890,2012,303,"Meyers, Ethan M.",Meyers,MEYERS,White
+890,2012,304,"Leibo, Joel Z.",Leibo,LEIBOW,White
+890,2012,15,"Poggio, Tomaso",Poggio,POGGIO,White
+532,2006,305,"Fan, Rui",Fan,FAN,API
+532,2006,306,"Lynch, Nancy",Lynch,LYNCH,White
+900,2012,307,"Liskov, Barbara",Liskov,LISKO,White
+900,2012,308,"Cowling, James",Cowling,COWLING,Black
+708,2009,233,"Katabi, Dina",Katabi,TABI,API
+708,2009,309,"Rahul, Hariharan",Rahul,RAHUBA,White
+708,2009,310,"Jakubczak, Szymon",Jakubczak,JAKUBCZAK,White
+1069,2021,255,"Shen, Jiasi",Shen,SHEN,API
+1069,2021,251,"Rinard, Martin",Rinard,RINARD,White
+1015,2015,311,"Beckmann, Nathan",Beckmann,BECKMANN,White
+1015,2015,312,"Sanchez, Daniel",Sanchez,SANCHEZ,Hispanic
+596,2007,313,"Woo, Grace Rusi",Woo,WOO,API
+596,2007,314,"Kheradpour, Pouya",Kheradpour,AHMADPOUR,White
+596,2007,233,"Katabi, Dina",Katabi,TABI,API
+449,2005,315,"Marnette, Bruno",Marnette,ARNETTE,White
+449,2005,316,"Kuncak, Viktor",Kuncak,KUNC,White
+449,2005,251,"Rinard, Martin",Rinard,RINARD,White
+946,2013,317,"Chiesa, Alessandro",Chiesa,CHIESA,White
+946,2013,318,"Micali, Silvio",Micali,MICALI,White
+946,2013,319,"Zhu, Zeyuan Allen",Zhu,ZHU,API
+1009,2015,320,"Chen, Tiffany Yu-Han",Chen,CHEN,API
+1009,2015,321,"Sivaraman, Anirudh",Sivaraman,SIVARAMAN,API
+1009,2015,322,"Das, Somak",Das,DAS,API
+1009,2015,323,"Ravindranath, Lenin",Ravindranath,RAVINDRANATH,API
+1009,2015,295,"Balakrishnan, Hari",Balakrishnan,BALAKRISHNAN,API
+331,2004,324,"Salcianu, Alexandru",Salcianu,CALCIANO,White
+331,2004,251,"Rinard, Martin",Rinard,RINARD,White
+460,2005,325,"Ajmani, Sameer",Ajmani,AJMANI,API
+962,2014,326,"Chen, Jing",Chen,CHEN,API
+962,2014,318,"Micali, Silvio",Micali,MICALI,White
+962,2014,327,"Pass, Rafael",Pass,PASS,White
+421,2005,328,"Su, Sara L.",Su,SU,API
+421,2005,235,"Durand, Fredo",Durand,DURAND,Black
+421,2005,329,"Agrawala, Maneesh",Agrawala,AGRAWAL,API
+516,2006,330,"Thies, William",Thies,THIES,White
+516,2006,331,"Urbanski, John Paul",Urbanski,URBANSKI,White
+516,2006,332,"Thorsen, Todd",Thorsen,THORSEN,White
+516,2006,239,"Amarasinghe, Saman",Amarasinghe,AMARASINGHE,API
+884,2012,333,"Effinger, Robert",Effinger,EFFINGER,White
+20,2000,46,"Riesenhuber, Maximilian",Riesenhuber,KASTENHUBER,White
+20,2000,15,"Poggio, Tomaso",Poggio,POGGIO,White
+1008,2015,334,"Feizi, Soheil",Feizi,REIZ,White
+1008,2015,335,"Makhdoumi, Ali",Makhdoumi,DOUMIT,White
+1008,2015,336,"Duffy, Ken",Duffy,DUFFY,White
+1008,2015,337,"Kellis, Manolis",Kellis,KELLIS,White
+1008,2015,338,"Medard, Muriel",Medard,MEDARD,Black
+127,2002,339,"Ne Win, Toh",Ne Win,WIN,API
+127,2002,340,"Ernst, Michael D.",Ernst,ERNST,White
+319,2004,341,"Weinstein, Eugene",Weinstein,WEINSTEIN,White
+319,2004,342,"Steele, Kenneth",Steele,STEELE,White
+319,2004,240,"Agarwal, Anant",Agarwal,AGARWAL,API
+319,2004,343,"Glass, James",Glass,GLASS,White
+858,2011,344,"Guo, Nina X.",Guo,GUO,API
+385,2004,345,"Balazinska, Magdalena",Balazinska,GALAZIN,White
+385,2004,295,"Balakrishnan, Hari",Balakrishnan,BALAKRISHNAN,API
+385,2004,346,"Madden, Samuel",Madden,MADDEN,White
+385,2004,347,"Stonebraker, Mike",Stonebraker,STONEBRAKER,White
+971,2014,348,"Sidiroglou-Douskos, Stelios",Sidiroglou-Douskos,SIDIROPOULOS,White
+971,2014,349,"Lahtinen, Eric",Lahtinen,LAHTINEN,White
+971,2014,249,"Long, Fan",Long,LONG,White
+971,2014,350,"Piselli, Paolo",Piselli,PISELLI,White
+971,2014,251,"Rinard, Martin",Rinard,RINARD,White
+188,2003,316,"Kuncak, Viktor",Kuncak,KUNC,White
+188,2003,251,"Rinard, Martin",Rinard,RINARD,White
+748,2009,60,"Kaelbling, Leslie Pack",Kaelbling,HELBLING,White
+748,2009,351,"Lozano-Perez, Tomas",Lozano-Perez,LOZANO,Hispanic
+727,2009,306,"Lynch, Nancy",Lynch,LYNCH,White
+727,2009,352,"Newport, Calvin",Newport,NEWPORT,White
+502,2006,353,"Canetti, Ran",Canetti,CANETTI,White
+502,2006,354,"Cheung, Ling",Cheung,CHEUNG,API
+502,2006,355,"Kaynar, Dilsun",Kaynar,RAYNARD,White
+502,2006,356,"Liskov, Moses",Liskov,LISKO,White
+502,2006,306,"Lynch, Nancy",Lynch,LYNCH,White
+502,2006,357,"Pereira, Olivier",Pereira,PEREIRA,White
+502,2006,358,"Segala, Roberto",Segala,SEGALA,White
+114,2002,301,"Boyapati, Chandrasekhar",Boyapati,BOYAPATI,API
+114,2002,359,"Lee, Robert",Lee,LEE,API
+114,2002,251,"Rinard, Martin",Rinard,RINARD,White
+749,2009,360,"Roy, Nicholas",Roy,ROY,API
+749,2009,361,"He, Ruijie",He,HE,API
+580,2007,362,"Chachulski, Szymon",Chachulski,PACHULSKI,White
+580,2007,363,"Jennings, Michael",Jennings,JENNINGS,White
+580,2007,364,"Katti, Sachin",Katti,KATTI,API
+580,2007,233,"Katabi, Dina",Katabi,TABI,API
+68,2001,365,"Thies, William F.",Thies,THIES,White
+68,2001,366,"Karczmarek, Michael",Karczmarek,KACZMAREK,White
+68,2001,239,"Amarasinghe, Saman",Amarasinghe,AMARASINGHE,API
+903,2012,367,"Dong, Shuonan",Dong,DONG,API
+1072,2023,368,"Rivest, Ronald",Rivest,RIVEST,White
+1072,2023,369,"Schiefelbein, M. Curran",Schiefelbein,SCHIEFELBEIN,White
+1072,2023,370,"Zissman, Marc A.",Zissman,RISSMAN,White
+1072,2023,371,"Bay, Jason",Bay,BAY,White
+1072,2023,372,"Bugnion, Edouard",Bugnion,BUGNI,White
+1072,2023,373,"Finnerty, Jill",Finnerty,FINNERTY,White
+1072,2023,374,"Liccardi, Ilaria",Liccardi,LICCARDI,White
+1072,2023,375,"Nelson, Brad",Nelson,NELSON,White
+1072,2023,376,"Norige, Adam S.",Norige,ORIGER,White
+1072,2023,377,"Shen, Emily H.",Shen,SHEN,API
+1072,2023,378,"Wanger, Jenny",Wanger,WANGER,White
+1072,2023,379,"Yahalom, Raphael",Yahalom,SHALOM,White
+1072,2023,380,"Alekseyev, Jesslyn D.",Alekseyev,ALEKSEYEV,White
+1072,2023,381,"Brubaker, Chad",Brubaker,BRUBAKER,White
+1072,2023,382,"Ferretti, Luca",Ferretti,FERRETTI,Hispanic
+1072,2023,383,"Ishikawa, Charlie",Ishikawa,ISHIKAWA,Two or More Races
+1072,2023,384,"Raykova, Mariana",Raykova,BAYKO,White
+1072,2023,385,"Schlaman, Brendan",Schlaman,SCHLAMAN,White
+1072,2023,386,"Schwartz, Robert X.",Schwartz,SCHWARTZ,White
+1072,2023,387,"Sudduth, Emma",Sudduth,SUDDUTH,White
+1072,2023,388,"Tessaro, Stefano",Tessaro,TESSARO,White
+825,2010,389,"Azar, Pablo",Azar,AZAR,White
+825,2010,326,"Chen, Jing",Chen,CHEN,API
+825,2010,318,"Micali, Silvio",Micali,MICALI,White
+928,2013,390,"Kim, Heejung",Kim,KIM,API
+928,2013,391,"Wohlwend, Jeremy",Wohlwend,WOHLWEND,White
+928,2013,304,"Leibo, Joel Z.",Leibo,LEIBOW,White
+928,2013,15,"Poggio, Tomaso",Poggio,POGGIO,White
+923,2013,392,"Levin, Anat",Levin,LEVIN,White
+923,2013,393,"Glasner, Daniel",Glasner,GLASNER,White
+923,2013,394,"Xiong, Ying",Xiong,XIONG,API
+923,2013,235,"Durand, Fredo",Durand,DURAND,Black
+923,2013,395,"Freeman, William",Freeman,FREEMAN,White
+923,2013,266,"Matusik, Wojciech",Matusik,MATUSIK,White
+923,2013,396,"Zickler, Todd",Zickler,ZICKLER,White
+37,2001,397,"Fu, Kevin",Fu,FU,API
+37,2001,398,"Sit, Emil",Sit,SIT,API
+37,2001,399,"Smith, Kendra",Smith,SMITH,White
+37,2001,293,"Feamster, Nick",Feamster,FEAMSTER,White
+1029,2016,400,"Rock, Colleen T.",Rock,ROCK,White
+981,2015,401,"Beckler, Kendra K.",Beckler,BECKLER,White
+147,2002,402,"Clarke, Dwaine",Clarke,CLARKE,White
+147,2002,403,"Gassend, Blaise",Gassend,GASSEN,White
+147,2002,404,"Suh, G. Edward",Suh,SUH,API
+147,2002,405,"van Dijk, Marten",van Dijk,VANDIJK,White
+147,2002,406,"Devadas, Srinivas",Devadas,DEVADAS,API
+852,2011,407,"Jayaraman, Karthick",Jayaraman,JAYARAMAN,API
+852,2011,408,"Ganesh, Vijay",Ganesh,GANESH,Black
+852,2011,409,"Tripunitara, Mahesh",Tripunitara,PUNI,API
+852,2011,410,"Rinard, Martin C.",Rinard,RINARD,White
+852,2011,411,"Chapin, Steve J.",Chapin,CHAPIN,White
+933,2013,249,"Long, Fan",Long,LONG,White
+933,2013,348,"Sidiroglou-Douskos, Stelios",Sidiroglou-Douskos,SIDIROPOULOS,White
+933,2013,412,"Kim, Deokhwan",Kim,KIM,API
+933,2013,251,"Rinard, Martin",Rinard,RINARD,White
+556,2006,50,"Morency, Louis-Philippe",Morency,MORENCY,White
+893,2012,413,"Johannsson, Hordur",Johannsson,JOHANSSON,White
+893,2012,414,"Kaess, Michael",Kaess,KAESS,White
+893,2012,415,"Fallon, Maurice",Fallon,FALLON,White
+893,2012,224,"Leonard, John J.",Leonard,LEONARD,White
+617,2007,416,"Papi, Matthew M.",Papi,PAPI,White
+617,2007,417,"Ali, Mahmood",Ali,ALI,Two or More Races
+617,2007,418,"Correa Jr., Telmo Luis",Correa Jr.,CORREA,Hispanic
+617,2007,419,"Perkins, Jeff H.",Perkins,PERKINS,White
+617,2007,340,"Ernst, Michael D.",Ernst,ERNST,White
+775,2010,412,"Kim, Deokhwan",Kim,KIM,API
+775,2010,420,"Misailovic, Sasa",Misailovic,MILOVIC,White
+775,2010,251,"Rinard, Martin",Rinard,RINARD,White
+452,2005,421,"Dolev, Shlomi",Dolev,DOLE,White
+452,2005,422,"Lahiani, Limor",Lahiani,AHIA,Hispanic
+452,2005,306,"Lynch, Nancy",Lynch,LYNCH,White
+452,2005,423,"Nolte, Tina",Nolte,NOLTE,White
+142,2002,403,"Gassend, Blaise",Gassend,GASSEN,White
+142,2002,404,"Suh, G. Edward",Suh,SUH,API
+142,2002,402,"Clarke, Dwaine",Clarke,CLARKE,White
+142,2002,405,"van Dijk, Marten",van Dijk,VANDIJK,White
+142,2002,406,"Devadas, Srinivas",Devadas,DEVADAS,API
+479,2005,424,"Hajiaghayi, MohammadTaghi",Hajiaghayi,HAJIAN,White
+479,2005,425,"Kortsarz, Guy",Kortsarz,ORTS,White
+479,2005,426,"Salavatipour, Mohammad R.",Salavatipour,SALAVA,White
+50,2001,325,"Ajmani, Sameer",Ajmani,AJMANI,API
+50,2001,427,"Morris, Robert T.",Morris,MORRIS,White
+50,2001,296,"Liskov, Barbara H.",Liskov,LISKO,White
+787,2010,407,"Jayaraman, Karthick",Jayaraman,JAYARAMAN,API
+787,2010,410,"Rinard, Martin C.",Rinard,RINARD,White
+787,2010,409,"Tripunitara, Mahesh",Tripunitara,PUNI,API
+787,2010,408,"Ganesh, Vijay",Ganesh,GANESH,Black
+787,2010,428,"Chapin, Steve",Chapin,CHAPIN,White
+640,2008,429,"Christoudias, C. Mario",Christoudias,CHRISTOU,White
+640,2008,430,"Urtasun, Raquel",Urtasun,KASUN,White
+640,2008,37,"Darrell, Trevor",Darrell,DARRELL,White
+22,2000,431,"Kumar, Vinay",Kumar,KUMAR,API
+22,2000,15,"Poggio, Tomaso",Poggio,POGGIO,White
+161,2002,432,"Tan, Godfrey",Tan,TAN,API
+453,2005,364,"Katti, Sachin",Katti,KATTI,API
+453,2005,233,"Katabi, Dina",Katabi,TABI,API
+453,2005,433,"Puchala, Katarzyna",Puchala,PUCHALA,White
+106,2002,434,"Zee, Karen",Zee,ZEE,API
+106,2002,251,"Rinard, Martin",Rinard,RINARD,White
+1059,2018,255,"Shen, Jiasi",Shen,SHEN,API
+1059,2018,435,"Rinard, MArtin",Rinard,RINARD,White
+526,2006,353,"Canetti, Ran",Canetti,CANETTI,White
+526,2006,354,"Cheung, Ling",Cheung,CHEUNG,API
+526,2006,355,"Kaynar, Dilsun",Kaynar,RAYNARD,White
+526,2006,356,"Liskov, Moses",Liskov,LISKO,White
+526,2006,306,"Lynch, Nancy",Lynch,LYNCH,White
+526,2006,357,"Pereira, Olivier",Pereira,PEREIRA,White
+526,2006,358,"Segala, Roberto",Segala,SEGALA,White
+271,2003,356,"Liskov, Moses",Liskov,LISKO,White
+803,2010,436,"Salakhutdinov, Ruslan",Salakhutdinov,KHUT,API
+803,2010,437,"Hinton, Geoffrey",Hinton,HINTON,White
+53,2001,438,"Keidar, Idit",Keidar,HEIDARI,White
+53,2001,439,"Rajsbaum, Sergio",Rajsbaum,RAJSKI,White
+723,2009,440,"Terashima, Yoshito",Terashima,TERASHIMA,API
+766,2009,318,"Micali, Silvio",Micali,MICALI,White
+766,2009,326,"Chen, Jing",Chen,CHEN,API
+91,2001,441,"Larsen, Samuel",Larsen,LARSEN,White
+91,2001,442,"Witchel, Emmett",Witchel,WITCHER,White
+91,2001,239,"Amarasinghe, Saman",Amarasinghe,AMARASINGHE,API
+1032,2016,252,"Finlayson, Mark Alan",Finlayson,FINLAYSON,White
+929,2013,443,"Carbin, Michael",Carbin,CARBIN,White
+929,2013,420,"Misailovic, Sasa",Misailovic,MILOVIC,White
+929,2013,251,"Rinard, Martin",Rinard,RINARD,White
+769,2009,239,"Amarasinghe, Saman",Amarasinghe,AMARASINGHE,API
+769,2009,444,"Rabbah, Rodric",Rabbah,SABBAH,White
+769,2009,441,"Larsen, Samuel",Larsen,LARSEN,White
+816,2010,445,"Hoffmann, Henry",Hoffmann,HOFFMANN,White
+816,2010,446,"Maggio, Martina",Maggio,MAGGIO,White
+816,2010,447,"Santambrogio, Marco D.",Santambrogio,AMBROGIO,White
+816,2010,448,"Leva, Alberto",Leva,LEVA,White
+816,2010,240,"Agarwal, Anant",Agarwal,AGARWAL,API
+870,2011,449,"Mroueh, Youssef",Mroueh,MROUE,White
+870,2011,15,"Poggio, Tomaso",Poggio,POGGIO,White
+870,2011,197,"Rosasco, Lorenzo",Rosasco,ROSASCO,White
+870,2011,450,"Slotine, Jean-Jacques E.",Slotine,SLOT,White
+1006,2015,451,"Abelson, Harold",Abelson,ABELSON,White
+1006,2015,452,"Anderson, Ross",Anderson,ANDERSON,White
+1006,2015,453,"Bellovin, Steven M.",Bellovin,BELLOVICH,White
+1006,2015,454,"Benaloh, Josh",Benaloh,BENALI,Black
+1006,2015,455,"Blaze, Matt",Blaze,BLAZE,White
+1006,2015,456,"Diffie, Whitfield",Diffie,DIFFIE,White
+1006,2015,457,"Gilmore, John",Gilmore,GILMORE,White
+1006,2015,458,"Green, Matthew",Green,GREEN,White
+1006,2015,459,"Landau, Susan",Landau,LANDAU,White
+1006,2015,460,"Neumann, Peter G.",Neumann,NEUMANN,White
+1006,2015,461,"Rivest, Ronald L.",Rivest,RIVEST,White
+1006,2015,462,"Schiller, Jeffrey I.",Schiller,SCHILLER,White
+1006,2015,463,"Schneier, Bruce",Schneier,SCHNEIER,White
+1006,2015,464,"Specter, Michael",Specter,SPECTER,White
+1006,2015,465,"Weitzner, Daniel J.",Weitzner,WEITZNER,White
+1016,2015,311,"Beckmann, Nathan",Beckmann,BECKMANN,White
+1016,2015,312,"Sanchez, Daniel",Sanchez,SANCHEZ,Hispanic
+910,2012,466,"Gharbi, Michael",Gharbi,GHARBI,Hispanic
+910,2012,467,"Malisiewicz, Tomasz",Malisiewicz,KLISIEWICZ,White
+910,2012,468,"Paris, Sylvain",Paris,PARIS,Hispanic
+910,2012,469,"Durand, Frédo",Durand,DURAND,Black
+611,2007,470,"Ehrmann, Stephen C.",Ehrmann,EHRMANN,White
+611,2007,471,"Gilbert, Steven W.",Gilbert,GILBERT,White
+611,2007,472,"McMartin, Flora",McMartin,MCMARTIN,White
+841,2011,473,"Krishna, Tushar",Krishna,KRISHNA,API
+841,2011,474,"Beckmann, Bradford M.",Beckmann,BECKMANN,White
+841,2011,291,"Peh, Li-Shiuan",Peh,SPEH,White
+841,2011,475,"Reinhardt, Steven K.",Reinhardt,REINHARDT,White
+493,2006,476,"Blackmore, Lars",Blackmore,BLACKMORE,White
+493,2006,477,"Block, Steve",Block,BLOCK,White
+193,2003,478,"Ostrovsky, Rafail",Ostrovsky,OSTROVSKY,White
+193,2003,479,"Rackoff, Charles",Rackoff,RACKOFF,White
+193,2003,480,"Smith, Adam",Smith,SMITH,White
+633,2008,481,"Silva, Marco da",Silva,SILVA,Hispanic
+633,2008,482,"Abe, Yeuhi",Abe,ABE,Two or More Races
+633,2008,483,"Popovic, Jovan",Popovic,POPOVIC,White
+747,2009,21,"Beal, Jacob",Beal,BEAL,White
+747,2009,484,"Indurkhya, Sagar",Indurkhya,KHY,API
+133,2002,301,"Boyapati, Chandrasekhar",Boyapati,BOYAPATI,API
+133,2002,359,"Lee, Robert",Lee,LEE,API
+133,2002,251,"Rinard, Martin",Rinard,RINARD,White
+464,2005,485,"Zhang, MIchael",Zhang,ZHANG,API
+464,2005,486,"Asanovic, Krste",Asanovic,HASANOVIC,White
+1052,2018,267,"Bhargava, Nikhil",Bhargava,BHARGAVA,API
+1052,2018,487,"Muise, Christian",Muise,MUISE,White
+1052,2018,488,"Vaquero, Tiago",Vaquero,VAQUERO,Hispanic
+1052,2018,489,"Williams, Brian",Williams,WILLIAMS,Black
+570,2007,116,"Monteleoni, Claire",Monteleoni,MONTELEON,White
+570,2007,490,"Kaariainen, Matti",Kaariainen,TAURIAINEN,White
+661,2008,491,"Milch, Brian",Milch,MILCH,White
+661,2008,492,"Koller, Daphne",Koller,KOLLER,White
+662,2008,326,"Chen, Jing",Chen,CHEN,API
+662,2008,318,"Micali, Silvio",Micali,MICALI,White
+175,2002,493,"Mirrokni, Vahab S.",Mirrokni,MIRRO,White
+175,2002,238,"Lee, Walter",Lee,LEE,API
+175,2002,101,"Karger, David",Karger,KARGER,White
+175,2002,239,"Amarasinghe, Saman",Amarasinghe,AMARASINGHE,API
+754,2009,494,"Shakhnarovich, Greg",Shakhnarovich,MAROVICH,White
+754,2009,495,"Bouvrie, Jake",Bouvrie,BOUVIER,White
+754,2009,197,"Rosasco, Lorenzo",Rosasco,ROSASCO,White
+754,2009,496,"Smale, Steve",Smale,SMALE,White
+652,2008,497,"Bileschi, Stanley M",Bileschi,BILES,White
+1038,2017,498,"Rosen, David M.",Rosen,ROSEN,White
+1038,2017,499,"Carlone, Luca",Carlone,CARLONE,White
+1038,2017,500,"Bandeira, Afonso S.",Bandeira,BANDEIRA,White
+1038,2017,224,"Leonard, John J.",Leonard,LEONARD,White
+658,2008,501,"McAllester, David",McAllester,MCALESTER,White
+658,2008,491,"Milch, Brian",Milch,MILCH,White
+658,2008,502,"Goodman, Noah D.",Goodman,GOODMAN,White
+347,2004,503,"Walfish, Michael",Walfish,WALFISH,White
+347,2004,504,"Stribling, Jeremy",Stribling,STRIBLING,White
+347,2004,505,"Krohn, Maxwell",Krohn,KROHN,White
+347,2004,295,"Balakrishnan, Hari",Balakrishnan,BALAKRISHNAN,API
+347,2004,506,"Morris, Robert",Morris,MORRIS,White
+347,2004,507,"Shenker, Scott",Shenker,SHENKER,White
+377,2004,316,"Kuncak, Viktor",Kuncak,KUNC,White
+377,2004,251,"Rinard, Martin",Rinard,RINARD,White
+925,2013,508,"Evans, Isaac",Evans,EVANS,White
+925,2013,509,"Lynch, Joseph",Lynch,LYNCH,White
+682,2008,510,"De Vito, Ernesto",De Vito,VITO,White
+682,2008,511,"Belkin, Mikhail",Belkin,BELKIN,White
+682,2008,197,"Rosasco, Lorenzo",Rosasco,ROSASCO,White
+932,2013,15,"Poggio, Tomaso",Poggio,POGGIO,White
+932,2013,512,"Mutch, Jim",Mutch,MUTCH,White
+932,2013,513,"Anselmi, Fabio",Anselmi,ANSELMI,White
+932,2013,514,"Tacchetti, Andrea",Tacchetti,BACCHETTI,White
+932,2013,197,"Rosasco, Lorenzo",Rosasco,ROSASCO,White
+932,2013,304,"Leibo, Joel Z.",Leibo,LEIBOW,White
+169,2002,404,"Suh, G. Edward",Suh,SUH,API
+169,2002,402,"Clarke, Dwaine",Clarke,CLARKE,White
+169,2002,403,"Gassend, Blaise",Gassend,GASSEN,White
+169,2002,405,"van Dijk, Marten",van Dijk,VANDIJK,White
+169,2002,406,"Devadas, Srinivas",Devadas,DEVADAS,API
+487,2006,19,"Zollei, Lilla",Zollei,ZOLLER,White
+52,2001,515,"Tanudjaja, Francisco",Tanudjaja,WIDJAJA,API
+52,2001,516,"Mui, Lik",Mui,MUI,API
+699,2008,155,"Tenenbaum, Joshua B.",Tenenbaum,TENENBAUM,White
+699,2008,517,"Jonas, Eric M.",Jonas,JONAS,White
+699,2008,518,"Mansinghka, Vikash K.",Mansinghka,MANSINGH,Black
+459,2005,38,"Arkoudas, Konstantine",Arkoudas,MARKOU,White
+330,2004,293,"Feamster, Nick",Feamster,FEAMSTER,White
+330,2004,295,"Balakrishnan, Hari",Balakrishnan,BALAKRISHNAN,API
+713,2009,519,"Tip, Frank",Tip,TIPP,White
+713,2009,340,"Ernst, Michael D.",Ernst,ERNST,White
+713,2009,520,"Dig, Danny",Dig,DIGA,API
+713,2009,521,"Dolby, Julian",Dolby,DOLBY,White
+713,2009,522,"Kiezun, Adam",Kiezun,ZUNG,White
+713,2009,523,"Artzi, Shay",Artzi,ARTZ,White
+713,2009,524,"Paradkar, Amit",Paradkar,RADKA,White
+844,2011,525,"Lau, Eric",Lau,LAU,API
+844,2011,526,"Miller, Jason E",Miller,MILLER,White
+844,2011,527,"Choi, Inseok",Choi,CHOI,API
+844,2011,528,"Yeung, Donald",Yeung,YEUNG,API
+844,2011,239,"Amarasinghe, Saman",Amarasinghe,AMARASINGHE,API
+844,2011,240,"Agarwal, Anant",Agarwal,AGARWAL,API
+76,2001,529,"Teller, Seth",Teller,TELLER,White
+575,2007,308,"Cowling, James",Cowling,COWLING,Black
+575,2007,530,"Myers, Daniel",Myers,MYERS,White
+575,2007,307,"Liskov, Barbara",Liskov,LISKO,White
+575,2007,531,"Rodrigues, Rodrigo",Rodrigues,RODRIGUES,White
+575,2007,299,"Shrira, Liuba",Shrira,SHRIER,White
+637,2008,523,"Artzi, Shay",Artzi,ARTZ,White
+637,2008,522,"Kiezun, Adam",Kiezun,ZUNG,White
+637,2008,521,"Dolby, Julian",Dolby,DOLBY,White
+637,2008,519,"Tip, Frank",Tip,TIPP,White
+637,2008,520,"Dig, Danny",Dig,DIGA,API
+637,2008,524,"Paradkar, Amit",Paradkar,RADKA,White
+637,2008,340,"Ernst, Michael D.",Ernst,ERNST,White
+251,2003,532,"Livadas, Carolos",Livadas,VADAS,White
+251,2003,533,"Lynch, Nancy A.",Lynch,LYNCH,White
+4,2000,534,"Barua, Rajeev",Barua,BARUA,API
+442,2005,21,"Beal, Jacob",Beal,BEAL,White
+19,2000,535,"Kohler, Eddie",Kohler,KOHLER,White
+19,2000,536,"Chen, Benjie",Chen,CHEN,API
+19,2000,537,"Kaashoek, M. Frans",Kaashoek,KAAS,White
+19,2000,427,"Morris, Robert T.",Morris,MORRIS,White
+19,2000,538,"Poletto, Massimiliano",Poletto,POLETTO,White
+514,2006,476,"Blackmore, Lars",Blackmore,BLACKMORE,White
+719,2009,268,"Williams, Brian C.",Williams,WILLIAMS,Black
+719,2009,539,"Ono, Masahiro",Ono,ONO,API
+824,2010,326,"Chen, Jing",Chen,CHEN,API
+824,2010,318,"Micali, Silvio",Micali,MICALI,White
+832,2011,540,"Popa, Raluca Ada",Popa,POPA,White
+832,2011,541,"Zeldovich, Nickolai",Zeldovich,DOVICH,White
+832,2011,295,"Balakrishnan, Hari",Balakrishnan,BALAKRISHNAN,API
+753,2009,542,"Miller, Rob",Miller,MILLER,White
+753,2009,101,"Karger, David",Karger,KARGER,White
+753,2009,543,"Marcus, Adam",Marcus,MARCUS,White
+753,2009,544,"Bernstein, Michael",Bernstein,BERNSTEIN,White
+578,2007,364,"Katti, Sachin",Katti,KATTI,API
+578,2007,545,"Cohen, Jeffrey",Cohen,COHEN,White
+578,2007,233,"Katabi, Dina",Katabi,TABI,API
+655,2008,327,"Pass, Rafael",Pass,PASS,White
+655,2008,546,"Vaikuntanathan, Vinod",Vaikuntanathan,NATHAN,API
+821,2010,412,"Kim, Deokhwan",Kim,KIM,API
+821,2010,410,"Rinard, Martin C.",Rinard,RINARD,White
+168,2002,532,"Livadas, Carolos",Livadas,VADAS,White
+168,2002,533,"Lynch, Nancy A.",Lynch,LYNCH,White
+26,2000,547,"Fekete, Alan",Fekete,FEKETE,White
+26,2000,438,"Keidar, Idit",Keidar,HEIDARI,White
+110,2002,233,"Katabi, Dina",Katabi,TABI,API
+110,2002,548,"Blake, Charles",Blake,BLAKE,White
+776,2010,240,"Agarwal, Anant",Agarwal,AGARWAL,API
+776,2010,290,"Miller, Jason",Miller,MILLER,White
+776,2010,311,"Beckmann, Nathan",Beckmann,BECKMANN,White
+776,2010,549,"Wentzlaff, David",Wentzlaff,WENTZLAFF,White
+636,2008,550,"Newton, Ryan",Newton,NEWTON,White
+636,2008,551,"Girod, Lewis",Girod,GIROD,White
+636,2008,552,"Craig, Michael",Craig,CRAIG,White
+636,2008,553,"Madden, Sam",Madden,MADDEN,White
+636,2008,554,"Morrisett, Greg",Morrisett,MORRISETT,White
+987,2015,555,"Khan, Muhammad Taimoor",Khan,KHAN,API
+987,2015,556,"Serpanos, Dimitrios",Serpanos,SERPA,White
+987,2015,110,"Shrobe, Howard",Shrobe,SHROBA,White
+960,2014,557,"Abari, Omid",Abari,ABAR,White
+960,2014,309,"Rahul, Hariharan",Rahul,RAHUBA,White
+960,2014,233,"Katabi, Dina",Katabi,TABI,API
+698,2008,306,"Lynch, Nancy",Lynch,LYNCH,White
+698,2008,357,"Pereira, Olivier",Pereira,PEREIRA,White
+698,2008,355,"Kaynar, Dilsun",Kaynar,RAYNARD,White
+698,2008,354,"Cheung, Ling",Cheung,CHEUNG,API
+698,2008,353,"Canetti, Ran",Canetti,CANETTI,White
+190,2003,558,"Kaminsky, Michael",Kaminsky,KAMINSKY,White
+190,2003,559,"Peterson, Eric",Peterson,PETERSON,White
+190,2003,397,"Fu, Kevin",Fu,FU,API
+190,2003,560,"Mazières, David",Mazières,MAZI,White
+190,2003,537,"Kaashoek, M. Frans",Kaashoek,KAAS,White
+389,2004,316,"Kuncak, Viktor",Kuncak,KUNC,White
+389,2004,251,"Rinard, Martin",Rinard,RINARD,White
+1043,2017,163,"Benjamin, Michael R.",Benjamin,BENJAMIN,White
+894,2012,15,"Poggio, Tomaso",Poggio,POGGIO,White
+814,2010,561,"Popic, Victoria",Popic,POPICH,White
+462,2005,325,"Ajmani, Sameer",Ajmani,AJMANI,API
+462,2005,307,"Liskov, Barbara",Liskov,LISKO,White
+462,2005,299,"Shrira, Liuba",Shrira,SHRIER,White
+462,2005,562,"Curtis, Dorothy",Curtis,CURTIS,White
+378,2004,116,"Monteleoni, Claire",Monteleoni,MONTELEON,White
+378,2004,295,"Balakrishnan, Hari",Balakrishnan,BALAKRISHNAN,API
+378,2004,293,"Feamster, Nick",Feamster,FEAMSTER,White
+378,2004,44,"Jaakkola, Tommi",Jaakkola,LAAKKONEN,White
+191,2003,563,"Krashinsky, Ronny",Krashinsky,LASHINSKY,White
+474,2005,424,"Hajiaghayi, MohammadTaghi",Hajiaghayi,HAJIAN,White
+474,2005,425,"Kortsarz, Guy",Kortsarz,ORTS,White
+474,2005,426,"Salavatipour, Mohammad R.",Salavatipour,SALAVA,White
+926,2013,564,"Simosa, Jorge D.",Simosa,SIMOS,White
+364,2004,531,"Rodrigues, Rodrigo",Rodrigues,RODRIGUES,White
+364,2004,307,"Liskov, Barbara",Liskov,LISKO,White
+763,2009,318,"Micali, Silvio",Micali,MICALI,White
+763,2009,326,"Chen, Jing",Chen,CHEN,API
+984,2015,249,"Long, Fan",Long,LONG,White
+984,2015,248,"Qi, Zichao",Qi,QI,API
+984,2015,250,"Achour, Sara",Achour,ACHOUR,White
+984,2015,251,"Rinard, Martin",Rinard,RINARD,White
+670,2008,565,"Vandiver, Benjamin Mead",Vandiver,VANDIVER,White
+536,2006,333,"Effinger, Robert",Effinger,EFFINGER,White
+891,2012,389,"Azar, Pablo",Azar,AZAR,White
+891,2012,318,"Micali, Silvio",Micali,MICALI,White
+365,2004,21,"Beal, Jacob",Beal,BEAL,White
+96,2001,566,"Wang, Karen",Wang,WANG,API
+588,2007,430,"Urtasun, Raquel",Urtasun,KASUN,White
+588,2007,37,"Darrell, Trevor",Darrell,DARRELL,White
+566,2007,316,"Kuncak, Viktor",Kuncak,KUNC,White
+959,2014,567,"Adib, Fadel",Adib,ADIB,Two or More Races
+959,2014,568,"Kabelac, Zachary",Kabelac,KABEL,White
+959,2014,233,"Katabi, Dina",Katabi,TABI,API
+673,2008,569,"Quattoni, Ariadna",Quattoni,MATTONI,White
+673,2008,570,"Carreras, Xavier",Carreras,CARRERAS,Hispanic
+673,2008,571,"Collins, Michael",Collins,COLLINS,White
+673,2008,37,"Darrell, Trevor",Darrell,DARRELL,White
+629,2007,572,"Masquelier, Timothee",Masquelier,MASQUELIER,White
+629,2007,157,"Serre, Thomas",Serre,SERRE,White
+629,2007,573,"Thorpe, Simon",Thorpe,THORPE,White
+629,2007,15,"Poggio, Tomaso",Poggio,POGGIO,White
+877,2011,469,"Durand, Frédo",Durand,DURAND,Black
+908,2012,307,"Liskov, Barbara",Liskov,LISKO,White
+221,2003,574,"Kiriansky, Vladimir",Kiriansky,KIRIAN,White
+221,2003,253,"Bruening, Derek",Bruening,BRUENING,White
+221,2003,239,"Amarasinghe, Saman",Amarasinghe,AMARASINGHE,API
+419,2005,306,"Lynch, Nancy",Lynch,LYNCH,White
+419,2005,575,"Mitra, Sayan",Mitra,MITRA,API
+419,2005,423,"Nolte, Tina",Nolte,NOLTE,White
