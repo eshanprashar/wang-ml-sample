@@ -168,7 +168,7 @@ For this task, I used the dataframes created in steps 2 and 3, and created the f
 The script is straightforward and present [here](scripts/metadata_analysis_aut_sub.ipynb) 
 
 ## Task 5 and 6:
-While I did not implement these tasks, the high-approach I would have taken for these would have been:
+While I did not implement these tasks, the high-level approach I would have taken for these would have been:
 1. Use Google APIs to search for queries like: _authorname + faculty_ or _authorname + google scholar_. The former is likely to give information on their appointments outside faculty while the later is likely to help with Task 6 (trajectory before and after industry appointments) 
 2. With or without step 1, I would have most likely, scraped data from engineering department websites of top US universities 
 3. University websites typically have notes on faculty work experience (career trajectories outside academia). I would also try to download their CVs (from the University webpage) and scrape data from those. I would deprioritize LinkedIn (because of API limits) / news (lack of standardization). 
