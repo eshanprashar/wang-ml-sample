@@ -81,12 +81,12 @@ Based on these two factors, I tried the following technical implementations:
 
 **Folder Navigation:** 
 1. scripts:
-    * [predicting ethnicity for authors using Census](wang-ml-sample/scripts/metadata_analysis_authors.ipynb)
+    * [predicting ethnicity for authors using Census](scripts/metadata_analysis_authors.ipynb)
 
 2. data:
-    * [aggregated author dataframe](wang-ml-sample/data/authors/authors.csv)
-    * [aggregated author dataframe with ethnicity](wang-ml-sample/data/authors/authors_ethnicity.csv)
-    * [2010 census names](wang-ml-sample/data/census_names)
+    * [aggregated author dataframe](data/authors/authors.csv)
+    * [aggregated author dataframe with ethnicity](data/authors/authors_ethnicity.csv)
+    * [2010 census names](data/census_names)
 
 **Sequence of Steps**
 - Downloaded names from a 2010 US Census dataset that covers _Frequently Occurring Surnames in the 2010 Census: Surnames Occurring at Least 100 Times Nationally._ This data has a list of ~160K names. For each _lastname_, they provide a breakdown of lastnames observed in given ethnicities:
@@ -142,11 +142,11 @@ Finally, based on observations from the exploratory approaches mentioned above, 
 
 **Folder Navigation:** 
 1. scripts:
-    * [predicting sub-categories of AI subjects](wang-ml-sample/scripts/metadata_analysis_subjects.ipynb)
+    * [predicting sub-categories of AI subjects](scripts/metadata_analysis_subjects.ipynb)
 
 2. data:
-    * [initial dataframe for subjects](wang-ml-sample/data/subjects/subjects_simple.csv)
-    * [final classfication of subjects](wang-ml-sample/data/subjects/subjects_classification_using_bert.csv)
+    * [initial dataframe for subjects](data/subjects/subjects_simple.csv)
+    * [final classfication of subjects](data/subjects/subjects_classification_using_bert.csv)
 
 **Sequence of Steps:**
 I have largely mentioned the sequence in **Labelling/Aggregating sub-topics** above. After using zero-shot classificaton on all 400 papers and labels from EDA, I obtained the following:
@@ -165,7 +165,7 @@ For this task, I used the dataframes created in steps 2 and 3, and created the f
 ![Alt text](image-5.png)
 ![Alt text](image-4.png)
 
-The script is straightforward and present [here](wang-ml-sample/scripts/metadata_analysis_aut_sub.ipynb) 
+The script is straightforward and present [here](scripts/metadata_analysis_aut_sub.ipynb) 
 
 ## Task 5 and 6:
 While I did not implement these tasks, the high-approach I would have taken for these would have been:
